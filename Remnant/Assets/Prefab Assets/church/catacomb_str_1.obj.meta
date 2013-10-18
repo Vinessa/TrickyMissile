@@ -9,27 +9,38 @@ ModelImporter:
     100006: catacomb_str_1_main_pillar_2
     100008: catacomb_str_1_pillar_arch_1
     100010: catacomb_str_1_pillar_arch_2
+    100012: catacomb_str_1_wall_torch_1
     400000: catacomb_str_1
     400002: //RootNode
     400004: catacomb_str_1_main_pillar_1
     400006: catacomb_str_1_main_pillar_2
     400008: catacomb_str_1_pillar_arch_1
     400010: catacomb_str_1_pillar_arch_2
+    400012: catacomb_str_1_wall_torch_1
     2300000: catacomb_str_1
     2300002: catacomb_str_1_main_pillar_1
     2300004: catacomb_str_1_main_pillar_2
     2300006: catacomb_str_1_pillar_arch_1
     2300008: catacomb_str_1_pillar_arch_2
+    2300010: catacomb_str_1_wall_torch_1
     3300000: catacomb_str_1
     3300002: catacomb_str_1_main_pillar_1
     3300004: catacomb_str_1_main_pillar_2
     3300006: catacomb_str_1_pillar_arch_1
     3300008: catacomb_str_1_pillar_arch_2
+    3300010: catacomb_str_1_wall_torch_1
     4300000: catacomb_str_1
     4300002: catacomb_str_1_main_pillar_1
     4300004: catacomb_str_1_main_pillar_2
     4300006: catacomb_str_1_pillar_arch_1
     4300008: catacomb_str_1_pillar_arch_2
+    4300010: catacomb_str_1_wall_torch_1
+    6400000: catacomb_str_1
+    6400002: catacomb_str_1_main_pillar_1
+    6400004: catacomb_str_1_main_pillar_2
+    6400006: catacomb_str_1_pillar_arch_1
+    6400008: catacomb_str_1_pillar_arch_2
+    6400010: catacomb_str_1_wall_torch_1
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -49,7 +60,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

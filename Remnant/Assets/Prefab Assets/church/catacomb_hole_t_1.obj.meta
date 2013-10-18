@@ -15,6 +15,8 @@ ModelImporter:
     100018: catacomb_top_1_main_pillar_2
     100020: catacomb_top_1_pillar_arch_1
     100022: catacomb_top_1_pillar_arch_2
+    100024: catacomb_bottom_2_wall_torch_2
+    100026: catacomb_top_1_wall_torch_1
     400000: catacomb_bottom_2
     400002: catacomb_bottom_2_main_pillar_1
     400004: catacomb_bottom_2_main_pillar_2
@@ -27,6 +29,8 @@ ModelImporter:
     400018: catacomb_top_1_main_pillar_2
     400020: catacomb_top_1_pillar_arch_1
     400022: catacomb_top_1_pillar_arch_2
+    400024: catacomb_bottom_2_wall_torch_2
+    400026: catacomb_top_1_wall_torch_1
     2300000: catacomb_bottom_2
     2300002: catacomb_bottom_2_main_pillar_1
     2300004: catacomb_bottom_2_main_pillar_2
@@ -38,6 +42,8 @@ ModelImporter:
     2300016: catacomb_top_1_main_pillar_2
     2300018: catacomb_top_1_pillar_arch_1
     2300020: catacomb_top_1_pillar_arch_2
+    2300022: catacomb_bottom_2_wall_torch_2
+    2300024: catacomb_top_1_wall_torch_1
     3300000: catacomb_bottom_2
     3300002: catacomb_bottom_2_main_pillar_1
     3300004: catacomb_bottom_2_main_pillar_2
@@ -49,6 +55,8 @@ ModelImporter:
     3300016: catacomb_top_1_main_pillar_2
     3300018: catacomb_top_1_pillar_arch_1
     3300020: catacomb_top_1_pillar_arch_2
+    3300022: catacomb_bottom_2_wall_torch_2
+    3300024: catacomb_top_1_wall_torch_1
     4300000: catacomb_bottom_2
     4300002: catacomb_bottom_2_main_pillar_1
     4300004: catacomb_bottom_2_main_pillar_2
@@ -60,6 +68,21 @@ ModelImporter:
     4300016: catacomb_top_1_main_pillar_2
     4300018: catacomb_top_1_pillar_arch_1
     4300020: catacomb_top_1_pillar_arch_2
+    4300022: catacomb_bottom_2_wall_torch_2
+    4300024: catacomb_top_1_wall_torch_1
+    6400000: catacomb_bottom_2
+    6400002: catacomb_bottom_2_main_pillar_1
+    6400004: catacomb_bottom_2_main_pillar_2
+    6400006: catacomb_bottom_2_pillar_arch_1
+    6400008: catacomb_bottom_2_pillar_arch_2
+    6400010: catacomb_bottom_2_wall_torch_2
+    6400012: catacomb_top_1
+    6400014: catacomb_top_1_broken_floor
+    6400016: catacomb_top_1_main_pillar_1
+    6400018: catacomb_top_1_main_pillar_2
+    6400020: catacomb_top_1_pillar_arch_1
+    6400022: catacomb_top_1_pillar_arch_2
+    6400024: catacomb_top_1_wall_torch_1
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -79,7 +102,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0a3e05331be6da041a38dfb0fe842c43
+guid: ea0a36aa7b1eca040a5249215a4dc04a
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
@@ -8,41 +8,27 @@ ModelImporter:
     100004: catacomb_stair_1_wall_torch_1
     100006: catacomb_stair_1_wall_torch_2
     100008: //RootNode
-    100010: stair_hallway_1
-    100012: stair_hallway_1_broken_roof_1
-    100014: stair_hallway_1_stairs_1
     400000: catacomb_stair_1
     400002: catacomb_stair_1_stairs_1
     400004: catacomb_stair_1_wall_torch_1
     400006: catacomb_stair_1_wall_torch_2
     400008: //RootNode
-    400010: stair_hallway_1
-    400012: stair_hallway_1_broken_roof_1
-    400014: stair_hallway_1_stairs_1
     2300000: catacomb_stair_1
     2300002: catacomb_stair_1_stairs_1
     2300004: catacomb_stair_1_wall_torch_1
     2300006: catacomb_stair_1_wall_torch_2
-    2300008: stair_hallway_1
-    2300010: stair_hallway_1_broken_roof_1
-    2300012: stair_hallway_1_stairs_1
     3300000: catacomb_stair_1
     3300002: catacomb_stair_1_stairs_1
     3300004: catacomb_stair_1_wall_torch_1
     3300006: catacomb_stair_1_wall_torch_2
-    3300008: stair_hallway_1
-    3300010: stair_hallway_1_broken_roof_1
-    3300012: stair_hallway_1_stairs_1
     4300000: catacomb_stair_1
     4300002: catacomb_stair_1_stairs_1
     4300004: catacomb_stair_1_wall_torch_1
     4300006: catacomb_stair_1_wall_torch_2
-    4300008: stair_hallway_1
-    4300010: stair_hallway_1_broken_roof_1
-    4300012: stair_hallway_1_stairs_1
-    6400000: stair_hallway_1
-    6400002: stair_hallway_1_broken_roof_1
-    6400004: stair_hallway_1_stairs_1
+    6400000: catacomb_stair_1
+    6400002: catacomb_stair_1_stairs_1
+    6400004: catacomb_stair_1_wall_torch_1
+    6400006: catacomb_stair_1_wall_torch_2
     9500000: //RootNode
   materials:
     importMaterials: 1

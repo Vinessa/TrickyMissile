@@ -14,6 +14,8 @@ ModelImporter:
     100016: catacomb_t_1_pillar_arch_2
     100018: catacomb_t_1_pillar_arch_3
     100020: catacomb_t_1_pillar_arch_4
+    100022: catacomb_t_1_wall_torch_1
+    100024: catacomb_t_1_wall_torch_2
     400000: catacomb_t_1
     400002: //RootNode
     400004: catacomb_t_1_main_pillar_1
@@ -25,6 +27,8 @@ ModelImporter:
     400016: catacomb_t_1_pillar_arch_2
     400018: catacomb_t_1_pillar_arch_3
     400020: catacomb_t_1_pillar_arch_4
+    400022: catacomb_t_1_wall_torch_1
+    400024: catacomb_t_1_wall_torch_2
     2300000: catacomb_t_1
     2300002: catacomb_t_1_main_pillar_1
     2300004: catacomb_t_1_main_pillar_2
@@ -35,6 +39,8 @@ ModelImporter:
     2300014: catacomb_t_1_pillar_arch_2
     2300016: catacomb_t_1_pillar_arch_3
     2300018: catacomb_t_1_pillar_arch_4
+    2300020: catacomb_t_1_wall_torch_1
+    2300022: catacomb_t_1_wall_torch_2
     3300000: catacomb_t_1
     3300002: catacomb_t_1_main_pillar_1
     3300004: catacomb_t_1_main_pillar_2
@@ -45,6 +51,8 @@ ModelImporter:
     3300014: catacomb_t_1_pillar_arch_2
     3300016: catacomb_t_1_pillar_arch_3
     3300018: catacomb_t_1_pillar_arch_4
+    3300020: catacomb_t_1_wall_torch_1
+    3300022: catacomb_t_1_wall_torch_2
     4300000: catacomb_t_1
     4300002: catacomb_t_1_main_pillar_1
     4300004: catacomb_t_1_main_pillar_2
@@ -55,6 +63,20 @@ ModelImporter:
     4300014: catacomb_t_1_pillar_arch_2
     4300016: catacomb_t_1_pillar_arch_3
     4300018: catacomb_t_1_pillar_arch_4
+    4300020: catacomb_t_1_wall_torch_1
+    4300022: catacomb_t_1_wall_torch_2
+    6400000: catacomb_t_1
+    6400002: catacomb_t_1_main_pillar_1
+    6400004: catacomb_t_1_main_pillar_2
+    6400006: catacomb_t_1_main_pillar_3
+    6400008: catacomb_t_1_main_pillar_4
+    6400010: catacomb_t_1_main_pillar_5
+    6400012: catacomb_t_1_pillar_arch_1
+    6400014: catacomb_t_1_pillar_arch_2
+    6400016: catacomb_t_1_pillar_arch_3
+    6400018: catacomb_t_1_pillar_arch_4
+    6400020: catacomb_t_1_wall_torch_1
+    6400022: catacomb_t_1_wall_torch_2
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -74,7 +96,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

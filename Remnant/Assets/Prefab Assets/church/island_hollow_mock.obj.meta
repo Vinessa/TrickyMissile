@@ -1,28 +1,20 @@
 fileFormatVersion: 2
-guid: 12e51e31674188b498cdebe6622fb6fd
+guid: 7f755321bdabc5e40943b3cb31dd0982
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
-    100000: catacomb_end_1
+    100000: churchIsland
     100002: //RootNode
-    100004: catacomb_end_1_main_pillar_1
-    100006: catacomb_end_1_wall_torch_1
-    400000: catacomb_end_1
+    100004: pCube1
+    400000: churchIsland
     400002: //RootNode
-    400004: catacomb_end_1_main_pillar_1
-    400006: catacomb_end_1_wall_torch_1
-    2300000: catacomb_end_1
-    2300002: catacomb_end_1_main_pillar_1
-    2300004: catacomb_end_1_wall_torch_1
-    3300000: catacomb_end_1
-    3300002: catacomb_end_1_main_pillar_1
-    3300004: catacomb_end_1_wall_torch_1
-    4300000: catacomb_end_1
-    4300002: catacomb_end_1_main_pillar_1
-    4300004: catacomb_end_1_wall_torch_1
-    6400000: catacomb_end_1
-    6400002: catacomb_end_1_main_pillar_1
-    6400004: catacomb_end_1_wall_torch_1
+    400004: pCube1
+    2300000: churchIsland
+    2300002: pCube1
+    3300000: churchIsland
+    3300002: pCube1
+    4300000: churchIsland
+    4300002: pCube1
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -42,7 +34,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
