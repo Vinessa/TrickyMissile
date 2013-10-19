@@ -1,0 +1,1758 @@
+fileFormatVersion: 2
+guid: a44632c77afa24446b2d1e0817b0cfde
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
+      walls_and_floor
+    100002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
+      polySurface113
+    100004: bell_tower:Bell_Tower_bell_tower:pSphere1 bell_tower:polySurface1 walls_and_floor
+      polySurface114
+    100006: chair_pCube18
+    100008: chair_pCube20
+    100010: chair_pCube21 pCube21_s1 polySurface337
+    100012: chair_pCube21 pCube21_s1 polySurface341
+    100014: chair_pCube21 pCube21_s1 polySurface358
+    100016: chair_pCube21 pCube21_s1 polySurface392
+    100018: chair_pCube21 pCube21_s1 polySurface397
+    100020: chair_pCube21 polySurface324
+    100022: chair_pCube21 polySurface336 pCube21_s1
+    100024: chair_pCube22 polySurface326
+    100026: chair_pCube23 polySurface328
+    100028: chair_pCube24 polySurface330
+    100030: chair_pCube25
+    100032: chair_pCube26
+    100034: chair_pCube27
+    100036: chair_pCube28
+    100038: chair_pCube29
+    100040: chair_pCube3 polySurface399
+    100042: chair_pCube30
+    100044: chair_pCube31 polySurface403
+    100046: chair_pCube33
+    100048: chair_pCube34
+    100050: chair_pCube35
+    100052: chair_pCube36
+    100054: chair_pCube37
+    100056: chair_pCube38
+    100058: chair_pCube40
+    100060: chair_polySurface323 pCube21
+    100062: chair_polySurface325 pCube22
+    100064: chair_polySurface327 pCube23
+    100066: chair_polySurface329 pCube24
+    100068: chair_polySurface398 pCube3
+    100070: chair_polySurface401 pCube32
+    100072: chair_polySurface402 pCube31
+    100074: //RootNode
+    100076: churchprops:pCube3_chair
+    100078: churchprops:pCube4_other
+    100080: lamp_Lamps
+    100082: lamp_Lamps1
+    100084: lamp_Lamps10
+    100086: lamp_Lamps11 polySurface104
+    100088: lamp_Lamps12
+    100090: lamp_Lamps13
+    100092: lamp_Lamps14 polySurface110
+    100094: lamp_Lamps16 Lamps15
+    100096: lamp_Lamps17
+    100098: lamp_Lamps18
+    100100: lamp_Lamps19
+    100102: lamp_Lamps2
+    100104: lamp_Lamps21 Lamps20
+    100106: lamp_Lamps3
+    100108: lamp_Lamps4
+    100110: lamp_Lamps5
+    100112: lamp_Lamps6
+    100114: lamp_Lamps7
+    100116: lamp_Lamps8
+    100118: lamp_polySurface10
+    100120: lamp_polySurface101 Lamps21
+    100122: lamp_polySurface103 Lamps11
+    100124: lamp_polySurface105 polySurface9
+    100126: lamp_polySurface107 Lamps16
+    100128: lamp_polySurface109 Lamps14
+    100130: lamp_polySurface9 polySurface106
+    100132: Lamps9_lamp
+    100134: other_churchprops:pCube5
+    100136: other_churchprops:pCube6
+    100138: other_churchprops:pPlane1
+    100140: other_pCube17
+    100142: other_pCube6
+    100144: other_pPlane2
+    100146: walls_and_floor_pCube10
+    100148: walls_and_floor_pCube12
+    100150: walls_and_floor_pCube13
+    100152: walls_and_floor_pCube14
+    100154: walls_and_floor_pCube15
+    100156: walls_and_floor_pCube5
+    100158: walls_and_floor_pCube9
+    100160: walls_and_floor_pdiShatterGroup1 polySurface124
+    100162: walls_and_floor_pdiShatterGroup1 polySurface126
+    100164: walls_and_floor_pdiShatterGroup1 polySurface147
+    100166: walls_and_floor_pdiShatterGroup1 polySurface155
+    100168: walls_and_floor_pdiShatterGroup1 polySurface156
+    100170: walls_and_floor_pdiShatterGroup1 polySurface157
+    100172: walls_and_floor_pdiShatterGroup1 polySurface158
+    100174: walls_and_floor_pdiShatterGroup1 polySurface159
+    100176: walls_and_floor_pdiShatterGroup1 polySurface160
+    100178: walls_and_floor_pdiShatterGroup1 polySurface161
+    100180: walls_and_floor_pdiShatterGroup1 polySurface163
+    100182: walls_and_floor_pdiShatterGroup1 polySurface164
+    100184: walls_and_floor_pdiShatterGroup1 polySurface165
+    100186: walls_and_floor_pdiShatterGroup1 polySurface167
+    100188: walls_and_floor_pdiShatterGroup1 polySurface168
+    100190: walls_and_floor_pdiShatterGroup1 polySurface169
+    100192: walls_and_floor_pdiShatterGroup1 polySurface170
+    100194: walls_and_floor_pdiShatterGroup1 polySurface171
+    100196: walls_and_floor_pdiShatterGroup1 polySurface172
+    100198: walls_and_floor_pdiShatterGroup1 polySurface174
+    100200: walls_and_floor_pdiShatterGroup1 polySurface175
+    100202: walls_and_floor_pdiShatterGroup1 polySurface178
+    100204: walls_and_floor_pdiShatterGroup1 polySurface179
+    100206: walls_and_floor_pdiShatterGroup1 polySurface180
+    100208: walls_and_floor_pdiShatterGroup1 polySurface181
+    100210: walls_and_floor_pdiShatterGroup1 polySurface182
+    100212: walls_and_floor_pdiShatterGroup1 polySurface183
+    100214: walls_and_floor_pdiShatterGroup1 polySurface212
+    100216: walls_and_floor_pdiShatterGroup1 polySurface213
+    100218: walls_and_floor_pdiShatterGroup1 polySurface214
+    100220: walls_and_floor_pdiShatterGroup1 polySurface215
+    100222: walls_and_floor_pdiShatterGroup1 polySurface216
+    100224: walls_and_floor_pdiShatterGroup1 polySurface217
+    100226: walls_and_floor_pdiShatterGroup1 polySurface218
+    100228: walls_and_floor_pdiShatterGroup1 polySurface220
+    100230: walls_and_floor_pdiShatterGroup1 polySurface221
+    100232: walls_and_floor_pdiShatterGroup1 polySurface223
+    100234: walls_and_floor_pdiShatterGroup1 polySurface224
+    100236: walls_and_floor_pdiShatterGroup1 polySurface225
+    100238: walls_and_floor_pdiShatterGroup1 polySurface226
+    100240: walls_and_floor_pdiShatterGroup1 polySurface227
+    100242: walls_and_floor_pdiShatterGroup1 polySurface228
+    100244: walls_and_floor_pdiShatterGroup1 polySurface229
+    100246: walls_and_floor_pdiShatterGroup1 polySurface230
+    100248: walls_and_floor_pdiShatterGroup1 polySurface231
+    100250: walls_and_floor_pdiShatterGroup1 polySurface232
+    100252: walls_and_floor_pdiShatterGroup1 polySurface233
+    100254: walls_and_floor_pdiShatterGroup1 polySurface234
+    100256: walls_and_floor_pdiShatterGroup1 polySurface235
+    100258: walls_and_floor_pdiShatterGroup1 polySurface236
+    100260: walls_and_floor_pdiShatterGroup1 polySurface237
+    100262: walls_and_floor_pdiShatterGroup1 polySurface238
+    100264: walls_and_floor_pdiShatterGroup1 polySurface240
+    100266: walls_and_floor_pdiShatterGroup1 polySurface241
+    100268: walls_and_floor_pdiShatterGroup2 polySurface244
+    100270: walls_and_floor_pdiShatterGroup2 polySurface245
+    100272: walls_and_floor_pdiShatterGroup2 polySurface246
+    100274: walls_and_floor_pdiShatterGroup2 polySurface247
+    100276: walls_and_floor_pdiShatterGroup2 polySurface248
+    100278: walls_and_floor_pdiShatterGroup2 polySurface249
+    100280: walls_and_floor_pdiShatterGroup2 polySurface250
+    100282: walls_and_floor_pdiShatterGroup2 polySurface251
+    100284: walls_and_floor_pdiShatterGroup2 polySurface252
+    100286: walls_and_floor_pdiShatterGroup2 polySurface253
+    100288: walls_and_floor_pdiShatterGroup2 polySurface254
+    100290: walls_and_floor_pdiShatterGroup2 polySurface255
+    100292: walls_and_floor_pdiShatterGroup2 polySurface256
+    100294: walls_and_floor_pdiShatterGroup2 polySurface257
+    100296: walls_and_floor_pdiShatterGroup2 polySurface258
+    100298: walls_and_floor_pdiShatterGroup2 polySurface259
+    100300: walls_and_floor_pdiShatterGroup2 polySurface260
+    100302: walls_and_floor_pdiShatterGroup2 polySurface261
+    100304: walls_and_floor_pdiShatterGroup2 polySurface262
+    100306: walls_and_floor_pdiShatterGroup2 polySurface263
+    100308: walls_and_floor_pdiShatterGroup2 polySurface264
+    100310: walls_and_floor_pdiShatterGroup2 polySurface265
+    100312: walls_and_floor_pdiShatterGroup2 polySurface266
+    100314: walls_and_floor_pdiShatterGroup2 polySurface267
+    100316: walls_and_floor_pdiShatterGroup2 polySurface268
+    100318: walls_and_floor_pdiShatterGroup2 polySurface269
+    100320: walls_and_floor_pdiShatterGroup2 polySurface270
+    100322: walls_and_floor_pdiShatterGroup2 polySurface271
+    100324: walls_and_floor_pdiShatterGroup2 polySurface272
+    100326: walls_and_floor_pdiShatterGroup2 polySurface273
+    100328: walls_and_floor_pdiShatterGroup2 polySurface274
+    100330: walls_and_floor_pdiShatterGroup2 polySurface275
+    100332: walls_and_floor_pdiShatterGroup2 polySurface276
+    100334: walls_and_floor_pdiShatterGroup2 polySurface277
+    100336: walls_and_floor_pdiShatterGroup2 polySurface278
+    100338: walls_and_floor_pdiShatterGroup2 polySurface279
+    100340: walls_and_floor_pdiShatterGroup2 polySurface280
+    100342: walls_and_floor_pdiShatterGroup2 polySurface281
+    100344: walls_and_floor_pdiShatterGroup2 polySurface283
+    100346: walls_and_floor_pdiShatterGroup2 polySurface285
+    100348: walls_and_floor_pdiShatterGroup2 polySurface290
+    100350: walls_and_floor_pdiShatterGroup2 polySurface293
+    100352: walls_and_floor_pdiShatterGroup2 polySurface297
+    100354: walls_and_floor_pdiShatterGroup2 polySurface298
+    100356: walls_and_floor_pdiShatterGroup2 polySurface301
+    100358: walls_and_floor_pdiShatterGroup2 polySurface302
+    100360: walls_and_floor_pdiShatterGroup2 polySurface304
+    100362: walls_and_floor_pdiShatterGroup2 polySurface317
+    100364: walls_and_floor_pdiShatterGroup2 polySurface319
+    100366: walls_and_floor_pdiShatterGroup2 polySurface320
+    100368: walls_and_floor_pdiShatterGroup2 polySurface321
+    100370: walls_and_floor_pdiShatterGroup2 polySurface322
+    100372: walls_and_floor_pdiShatterGroup3 polySurface405
+    100374: walls_and_floor_pdiShatterGroup3 polySurface406
+    100376: walls_and_floor_pdiShatterGroup3 polySurface407
+    100378: walls_and_floor_pdiShatterGroup3 polySurface408
+    100380: walls_and_floor_pdiShatterGroup3 polySurface409
+    100382: walls_and_floor_pdiShatterGroup3 polySurface410
+    100384: walls_and_floor_pdiShatterGroup3 polySurface411
+    100386: walls_and_floor_pdiShatterGroup3 polySurface412
+    100388: walls_and_floor_pdiShatterGroup3 polySurface413
+    100390: walls_and_floor_pdiShatterGroup3 polySurface414
+    100392: walls_and_floor_pdiShatterGroup3 polySurface415
+    100394: walls_and_floor_pdiShatterGroup3 polySurface416
+    100396: walls_and_floor_pdiShatterGroup3 polySurface417
+    100398: walls_and_floor_pdiShatterGroup3 polySurface418
+    100400: walls_and_floor_pdiShatterGroup3 polySurface419
+    100402: walls_and_floor_pdiShatterGroup3 polySurface420
+    100404: walls_and_floor_pdiShatterGroup3 polySurface421
+    100406: walls_and_floor_pdiShatterGroup3 polySurface422
+    100408: walls_and_floor_pdiShatterGroup3 polySurface423
+    100410: walls_and_floor_pdiShatterGroup3 polySurface425
+    100412: walls_and_floor_pdiShatterGroup3 polySurface428
+    100414: walls_and_floor_pdiShatterGroup3 polySurface430
+    100416: walls_and_floor_pdiShatterGroup3 polySurface431
+    100418: walls_and_floor_pdiShatterGroup3 polySurface436
+    100420: walls_and_floor_pdiShatterGroup3 polySurface438
+    100422: walls_and_floor_pdiShatterGroup3 polySurface439
+    100424: walls_and_floor_pdiShatterGroup3 polySurface440
+    100426: walls_and_floor_pdiShatterGroup3 polySurface443
+    100428: walls_and_floor_pdiShatterGroup3 polySurface446
+    100430: walls_and_floor_pdiShatterGroup3 polySurface447
+    100432: walls_and_floor_pdiShatterGroup3 polySurface449
+    100434: walls_and_floor_pdiShatterGroup3 polySurface450
+    100436: walls_and_floor_pdiShatterGroup3 polySurface452
+    100438: walls_and_floor_pdiShatterGroup3 polySurface453
+    100440: walls_and_floor_pdiShatterGroup3 polySurface454
+    100442: walls_and_floor_pdiShatterGroup3 polySurface456
+    100444: walls_and_floor_pdiShatterGroup3 polySurface457
+    100446: walls_and_floor_pdiShatterGroup3 polySurface460
+    100448: walls_and_floor_pdiShatterGroup3 polySurface461
+    100450: walls_and_floor_pdiShatterGroup3 polySurface462
+    100452: walls_and_floor_pdiShatterGroup3 polySurface466
+    100454: walls_and_floor_pdiShatterGroup3 polySurface468
+    100456: walls_and_floor_pdiShatterGroup3 polySurface469
+    100458: walls_and_floor_pdiShatterGroup3 polySurface470
+    100460: walls_and_floor_pdiShatterGroup3 polySurface471
+    100462: walls_and_floor_pdiShatterGroup3 polySurface472
+    100464: walls_and_floor_pdiShatterGroup3 polySurface473
+    100466: walls_and_floor_pdiShatterGroup3 polySurface475
+    100468: walls_and_floor_pdiShatterGroup3 polySurface477
+    100470: walls_and_floor_pdiShatterGroup3 polySurface480
+    100472: walls_and_floor_pdiShatterGroup3 polySurface481
+    100474: walls_and_floor_pdiShatterGroup3 polySurface482
+    100476: walls_and_floor_pdiShatterGroup3 polySurface483
+    100478: walls_and_floor_pdiShatterGroup3 polySurface484
+    100480: walls_and_floor_pdiShatterGroup3 polySurface485
+    100482: walls_and_floor_pdiShatterGroup3 polySurface486
+    100484: walls_and_floor_pdiShatterGroup3 polySurface487
+    100486: walls_and_floor_pdiShatterGroup3 polySurface488
+    100488: walls_and_floor_pdiShatterGroup3 polySurface489
+    100490: walls_and_floor_pdiShatterGroup3 polySurface491
+    100492: walls_and_floor_pdiShatterGroup3 polySurface492
+    100494: walls_and_floor_pdiShatterGroup3 polySurface495
+    100496: walls_and_floor_pdiShatterGroup3 polySurface496
+    100498: walls_and_floor_pdiShatterGroup3 polySurface498
+    100500: walls_and_floor_pdiShatterGroup3 polySurface499
+    100502: walls_and_floor_pdiShatterGroup3 polySurface501
+    100504: walls_and_floor_pdiShatterGroup3 polySurface507
+    100506: walls_and_floor_pdiShatterGroup3 polySurface508
+    100508: walls_and_floor_pdiShatterGroup3 polySurface510
+    100510: walls_and_floor_pdiShatterGroup3 polySurface511
+    100512: walls_and_floor_pdiShatterGroup3 polySurface512
+    100514: walls_and_floor_pdiShatterGroup3 polySurface513
+    100516: walls_and_floor_pdiShatterGroup3 polySurface514
+    100518: walls_and_floor_pdiShatterGroup3 polySurface515
+    100520: walls_and_floor_pdiShatterGroup3 polySurface517
+    100522: walls_and_floor_pdiShatterGroup3 polySurface518
+    100524: walls_and_floor_pdiShatterGroup3 polySurface519
+    100526: walls_and_floor_pdiShatterGroup3 polySurface520
+    100528: walls_and_floor_pdiShatterGroup3 polySurface522
+    100530: walls_and_floor_pdiShatterGroup3 polySurface523
+    100532: walls_and_floor_pdiShatterGroup3 polySurface524
+    100534: walls_and_floor_pdiShatterGroup3 polySurface526
+    100536: walls_and_floor_pdiShatterGroup3 polySurface527
+    100538: walls_and_floor_pdiShatterGroup3 polySurface528
+    100540: walls_and_floor_pdiShatterGroup3 polySurface529
+    100542: walls_and_floor_pdiShatterGroup3 polySurface530
+    100544: walls_and_floor_pdiShatterGroup3 polySurface531
+    100546: walls_and_floor_polySurface111
+    100548: walls_and_floor_polySurface122 pdiShatterGroup1
+    100550: walls_and_floor_polySurface242 pdiShatterGroup2
+    100552: walls_and_floor_polySurface3
+    100554: walls_and_floor_polySurface4 polySurface83
+    100556: walls_and_floor_polySurface404 pdiShatterGroup3
+    100558: walls_and_floor_polySurface82 polySurface4
+    100560: walls_and_floor_pSphere1
+    400000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
+      walls_and_floor
+    400002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
+      polySurface113
+    400004: bell_tower:Bell_Tower_bell_tower:pSphere1 bell_tower:polySurface1 walls_and_floor
+      polySurface114
+    400006: chair_pCube18
+    400008: chair_pCube20
+    400010: chair_pCube21 pCube21_s1 polySurface337
+    400012: chair_pCube21 pCube21_s1 polySurface341
+    400014: chair_pCube21 pCube21_s1 polySurface358
+    400016: chair_pCube21 pCube21_s1 polySurface392
+    400018: chair_pCube21 pCube21_s1 polySurface397
+    400020: chair_pCube21 polySurface324
+    400022: chair_pCube21 polySurface336 pCube21_s1
+    400024: chair_pCube22 polySurface326
+    400026: chair_pCube23 polySurface328
+    400028: chair_pCube24 polySurface330
+    400030: chair_pCube25
+    400032: chair_pCube26
+    400034: chair_pCube27
+    400036: chair_pCube28
+    400038: chair_pCube29
+    400040: chair_pCube3 polySurface399
+    400042: chair_pCube30
+    400044: chair_pCube31 polySurface403
+    400046: chair_pCube33
+    400048: chair_pCube34
+    400050: chair_pCube35
+    400052: chair_pCube36
+    400054: chair_pCube37
+    400056: chair_pCube38
+    400058: chair_pCube40
+    400060: chair_polySurface323 pCube21
+    400062: chair_polySurface325 pCube22
+    400064: chair_polySurface327 pCube23
+    400066: chair_polySurface329 pCube24
+    400068: chair_polySurface398 pCube3
+    400070: chair_polySurface401 pCube32
+    400072: chair_polySurface402 pCube31
+    400074: //RootNode
+    400076: churchprops:pCube3_chair
+    400078: churchprops:pCube4_other
+    400080: lamp_Lamps
+    400082: lamp_Lamps1
+    400084: lamp_Lamps10
+    400086: lamp_Lamps11 polySurface104
+    400088: lamp_Lamps12
+    400090: lamp_Lamps13
+    400092: lamp_Lamps14 polySurface110
+    400094: lamp_Lamps16 Lamps15
+    400096: lamp_Lamps17
+    400098: lamp_Lamps18
+    400100: lamp_Lamps19
+    400102: lamp_Lamps2
+    400104: lamp_Lamps21 Lamps20
+    400106: lamp_Lamps3
+    400108: lamp_Lamps4
+    400110: lamp_Lamps5
+    400112: lamp_Lamps6
+    400114: lamp_Lamps7
+    400116: lamp_Lamps8
+    400118: lamp_polySurface10
+    400120: lamp_polySurface101 Lamps21
+    400122: lamp_polySurface103 Lamps11
+    400124: lamp_polySurface105 polySurface9
+    400126: lamp_polySurface107 Lamps16
+    400128: lamp_polySurface109 Lamps14
+    400130: lamp_polySurface9 polySurface106
+    400132: Lamps9_lamp
+    400134: other_churchprops:pCube5
+    400136: other_churchprops:pCube6
+    400138: other_churchprops:pPlane1
+    400140: other_pCube17
+    400142: other_pCube6
+    400144: other_pPlane2
+    400146: walls_and_floor_pCube10
+    400148: walls_and_floor_pCube12
+    400150: walls_and_floor_pCube13
+    400152: walls_and_floor_pCube14
+    400154: walls_and_floor_pCube15
+    400156: walls_and_floor_pCube5
+    400158: walls_and_floor_pCube9
+    400160: walls_and_floor_pdiShatterGroup1 polySurface124
+    400162: walls_and_floor_pdiShatterGroup1 polySurface126
+    400164: walls_and_floor_pdiShatterGroup1 polySurface147
+    400166: walls_and_floor_pdiShatterGroup1 polySurface155
+    400168: walls_and_floor_pdiShatterGroup1 polySurface156
+    400170: walls_and_floor_pdiShatterGroup1 polySurface157
+    400172: walls_and_floor_pdiShatterGroup1 polySurface158
+    400174: walls_and_floor_pdiShatterGroup1 polySurface159
+    400176: walls_and_floor_pdiShatterGroup1 polySurface160
+    400178: walls_and_floor_pdiShatterGroup1 polySurface161
+    400180: walls_and_floor_pdiShatterGroup1 polySurface163
+    400182: walls_and_floor_pdiShatterGroup1 polySurface164
+    400184: walls_and_floor_pdiShatterGroup1 polySurface165
+    400186: walls_and_floor_pdiShatterGroup1 polySurface167
+    400188: walls_and_floor_pdiShatterGroup1 polySurface168
+    400190: walls_and_floor_pdiShatterGroup1 polySurface169
+    400192: walls_and_floor_pdiShatterGroup1 polySurface170
+    400194: walls_and_floor_pdiShatterGroup1 polySurface171
+    400196: walls_and_floor_pdiShatterGroup1 polySurface172
+    400198: walls_and_floor_pdiShatterGroup1 polySurface174
+    400200: walls_and_floor_pdiShatterGroup1 polySurface175
+    400202: walls_and_floor_pdiShatterGroup1 polySurface178
+    400204: walls_and_floor_pdiShatterGroup1 polySurface179
+    400206: walls_and_floor_pdiShatterGroup1 polySurface180
+    400208: walls_and_floor_pdiShatterGroup1 polySurface181
+    400210: walls_and_floor_pdiShatterGroup1 polySurface182
+    400212: walls_and_floor_pdiShatterGroup1 polySurface183
+    400214: walls_and_floor_pdiShatterGroup1 polySurface212
+    400216: walls_and_floor_pdiShatterGroup1 polySurface213
+    400218: walls_and_floor_pdiShatterGroup1 polySurface214
+    400220: walls_and_floor_pdiShatterGroup1 polySurface215
+    400222: walls_and_floor_pdiShatterGroup1 polySurface216
+    400224: walls_and_floor_pdiShatterGroup1 polySurface217
+    400226: walls_and_floor_pdiShatterGroup1 polySurface218
+    400228: walls_and_floor_pdiShatterGroup1 polySurface220
+    400230: walls_and_floor_pdiShatterGroup1 polySurface221
+    400232: walls_and_floor_pdiShatterGroup1 polySurface223
+    400234: walls_and_floor_pdiShatterGroup1 polySurface224
+    400236: walls_and_floor_pdiShatterGroup1 polySurface225
+    400238: walls_and_floor_pdiShatterGroup1 polySurface226
+    400240: walls_and_floor_pdiShatterGroup1 polySurface227
+    400242: walls_and_floor_pdiShatterGroup1 polySurface228
+    400244: walls_and_floor_pdiShatterGroup1 polySurface229
+    400246: walls_and_floor_pdiShatterGroup1 polySurface230
+    400248: walls_and_floor_pdiShatterGroup1 polySurface231
+    400250: walls_and_floor_pdiShatterGroup1 polySurface232
+    400252: walls_and_floor_pdiShatterGroup1 polySurface233
+    400254: walls_and_floor_pdiShatterGroup1 polySurface234
+    400256: walls_and_floor_pdiShatterGroup1 polySurface235
+    400258: walls_and_floor_pdiShatterGroup1 polySurface236
+    400260: walls_and_floor_pdiShatterGroup1 polySurface237
+    400262: walls_and_floor_pdiShatterGroup1 polySurface238
+    400264: walls_and_floor_pdiShatterGroup1 polySurface240
+    400266: walls_and_floor_pdiShatterGroup1 polySurface241
+    400268: walls_and_floor_pdiShatterGroup2 polySurface244
+    400270: walls_and_floor_pdiShatterGroup2 polySurface245
+    400272: walls_and_floor_pdiShatterGroup2 polySurface246
+    400274: walls_and_floor_pdiShatterGroup2 polySurface247
+    400276: walls_and_floor_pdiShatterGroup2 polySurface248
+    400278: walls_and_floor_pdiShatterGroup2 polySurface249
+    400280: walls_and_floor_pdiShatterGroup2 polySurface250
+    400282: walls_and_floor_pdiShatterGroup2 polySurface251
+    400284: walls_and_floor_pdiShatterGroup2 polySurface252
+    400286: walls_and_floor_pdiShatterGroup2 polySurface253
+    400288: walls_and_floor_pdiShatterGroup2 polySurface254
+    400290: walls_and_floor_pdiShatterGroup2 polySurface255
+    400292: walls_and_floor_pdiShatterGroup2 polySurface256
+    400294: walls_and_floor_pdiShatterGroup2 polySurface257
+    400296: walls_and_floor_pdiShatterGroup2 polySurface258
+    400298: walls_and_floor_pdiShatterGroup2 polySurface259
+    400300: walls_and_floor_pdiShatterGroup2 polySurface260
+    400302: walls_and_floor_pdiShatterGroup2 polySurface261
+    400304: walls_and_floor_pdiShatterGroup2 polySurface262
+    400306: walls_and_floor_pdiShatterGroup2 polySurface263
+    400308: walls_and_floor_pdiShatterGroup2 polySurface264
+    400310: walls_and_floor_pdiShatterGroup2 polySurface265
+    400312: walls_and_floor_pdiShatterGroup2 polySurface266
+    400314: walls_and_floor_pdiShatterGroup2 polySurface267
+    400316: walls_and_floor_pdiShatterGroup2 polySurface268
+    400318: walls_and_floor_pdiShatterGroup2 polySurface269
+    400320: walls_and_floor_pdiShatterGroup2 polySurface270
+    400322: walls_and_floor_pdiShatterGroup2 polySurface271
+    400324: walls_and_floor_pdiShatterGroup2 polySurface272
+    400326: walls_and_floor_pdiShatterGroup2 polySurface273
+    400328: walls_and_floor_pdiShatterGroup2 polySurface274
+    400330: walls_and_floor_pdiShatterGroup2 polySurface275
+    400332: walls_and_floor_pdiShatterGroup2 polySurface276
+    400334: walls_and_floor_pdiShatterGroup2 polySurface277
+    400336: walls_and_floor_pdiShatterGroup2 polySurface278
+    400338: walls_and_floor_pdiShatterGroup2 polySurface279
+    400340: walls_and_floor_pdiShatterGroup2 polySurface280
+    400342: walls_and_floor_pdiShatterGroup2 polySurface281
+    400344: walls_and_floor_pdiShatterGroup2 polySurface283
+    400346: walls_and_floor_pdiShatterGroup2 polySurface285
+    400348: walls_and_floor_pdiShatterGroup2 polySurface290
+    400350: walls_and_floor_pdiShatterGroup2 polySurface293
+    400352: walls_and_floor_pdiShatterGroup2 polySurface297
+    400354: walls_and_floor_pdiShatterGroup2 polySurface298
+    400356: walls_and_floor_pdiShatterGroup2 polySurface301
+    400358: walls_and_floor_pdiShatterGroup2 polySurface302
+    400360: walls_and_floor_pdiShatterGroup2 polySurface304
+    400362: walls_and_floor_pdiShatterGroup2 polySurface317
+    400364: walls_and_floor_pdiShatterGroup2 polySurface319
+    400366: walls_and_floor_pdiShatterGroup2 polySurface320
+    400368: walls_and_floor_pdiShatterGroup2 polySurface321
+    400370: walls_and_floor_pdiShatterGroup2 polySurface322
+    400372: walls_and_floor_pdiShatterGroup3 polySurface405
+    400374: walls_and_floor_pdiShatterGroup3 polySurface406
+    400376: walls_and_floor_pdiShatterGroup3 polySurface407
+    400378: walls_and_floor_pdiShatterGroup3 polySurface408
+    400380: walls_and_floor_pdiShatterGroup3 polySurface409
+    400382: walls_and_floor_pdiShatterGroup3 polySurface410
+    400384: walls_and_floor_pdiShatterGroup3 polySurface411
+    400386: walls_and_floor_pdiShatterGroup3 polySurface412
+    400388: walls_and_floor_pdiShatterGroup3 polySurface413
+    400390: walls_and_floor_pdiShatterGroup3 polySurface414
+    400392: walls_and_floor_pdiShatterGroup3 polySurface415
+    400394: walls_and_floor_pdiShatterGroup3 polySurface416
+    400396: walls_and_floor_pdiShatterGroup3 polySurface417
+    400398: walls_and_floor_pdiShatterGroup3 polySurface418
+    400400: walls_and_floor_pdiShatterGroup3 polySurface419
+    400402: walls_and_floor_pdiShatterGroup3 polySurface420
+    400404: walls_and_floor_pdiShatterGroup3 polySurface421
+    400406: walls_and_floor_pdiShatterGroup3 polySurface422
+    400408: walls_and_floor_pdiShatterGroup3 polySurface423
+    400410: walls_and_floor_pdiShatterGroup3 polySurface425
+    400412: walls_and_floor_pdiShatterGroup3 polySurface428
+    400414: walls_and_floor_pdiShatterGroup3 polySurface430
+    400416: walls_and_floor_pdiShatterGroup3 polySurface431
+    400418: walls_and_floor_pdiShatterGroup3 polySurface436
+    400420: walls_and_floor_pdiShatterGroup3 polySurface438
+    400422: walls_and_floor_pdiShatterGroup3 polySurface439
+    400424: walls_and_floor_pdiShatterGroup3 polySurface440
+    400426: walls_and_floor_pdiShatterGroup3 polySurface443
+    400428: walls_and_floor_pdiShatterGroup3 polySurface446
+    400430: walls_and_floor_pdiShatterGroup3 polySurface447
+    400432: walls_and_floor_pdiShatterGroup3 polySurface449
+    400434: walls_and_floor_pdiShatterGroup3 polySurface450
+    400436: walls_and_floor_pdiShatterGroup3 polySurface452
+    400438: walls_and_floor_pdiShatterGroup3 polySurface453
+    400440: walls_and_floor_pdiShatterGroup3 polySurface454
+    400442: walls_and_floor_pdiShatterGroup3 polySurface456
+    400444: walls_and_floor_pdiShatterGroup3 polySurface457
+    400446: walls_and_floor_pdiShatterGroup3 polySurface460
+    400448: walls_and_floor_pdiShatterGroup3 polySurface461
+    400450: walls_and_floor_pdiShatterGroup3 polySurface462
+    400452: walls_and_floor_pdiShatterGroup3 polySurface466
+    400454: walls_and_floor_pdiShatterGroup3 polySurface468
+    400456: walls_and_floor_pdiShatterGroup3 polySurface469
+    400458: walls_and_floor_pdiShatterGroup3 polySurface470
+    400460: walls_and_floor_pdiShatterGroup3 polySurface471
+    400462: walls_and_floor_pdiShatterGroup3 polySurface472
+    400464: walls_and_floor_pdiShatterGroup3 polySurface473
+    400466: walls_and_floor_pdiShatterGroup3 polySurface475
+    400468: walls_and_floor_pdiShatterGroup3 polySurface477
+    400470: walls_and_floor_pdiShatterGroup3 polySurface480
+    400472: walls_and_floor_pdiShatterGroup3 polySurface481
+    400474: walls_and_floor_pdiShatterGroup3 polySurface482
+    400476: walls_and_floor_pdiShatterGroup3 polySurface483
+    400478: walls_and_floor_pdiShatterGroup3 polySurface484
+    400480: walls_and_floor_pdiShatterGroup3 polySurface485
+    400482: walls_and_floor_pdiShatterGroup3 polySurface486
+    400484: walls_and_floor_pdiShatterGroup3 polySurface487
+    400486: walls_and_floor_pdiShatterGroup3 polySurface488
+    400488: walls_and_floor_pdiShatterGroup3 polySurface489
+    400490: walls_and_floor_pdiShatterGroup3 polySurface491
+    400492: walls_and_floor_pdiShatterGroup3 polySurface492
+    400494: walls_and_floor_pdiShatterGroup3 polySurface495
+    400496: walls_and_floor_pdiShatterGroup3 polySurface496
+    400498: walls_and_floor_pdiShatterGroup3 polySurface498
+    400500: walls_and_floor_pdiShatterGroup3 polySurface499
+    400502: walls_and_floor_pdiShatterGroup3 polySurface501
+    400504: walls_and_floor_pdiShatterGroup3 polySurface507
+    400506: walls_and_floor_pdiShatterGroup3 polySurface508
+    400508: walls_and_floor_pdiShatterGroup3 polySurface510
+    400510: walls_and_floor_pdiShatterGroup3 polySurface511
+    400512: walls_and_floor_pdiShatterGroup3 polySurface512
+    400514: walls_and_floor_pdiShatterGroup3 polySurface513
+    400516: walls_and_floor_pdiShatterGroup3 polySurface514
+    400518: walls_and_floor_pdiShatterGroup3 polySurface515
+    400520: walls_and_floor_pdiShatterGroup3 polySurface517
+    400522: walls_and_floor_pdiShatterGroup3 polySurface518
+    400524: walls_and_floor_pdiShatterGroup3 polySurface519
+    400526: walls_and_floor_pdiShatterGroup3 polySurface520
+    400528: walls_and_floor_pdiShatterGroup3 polySurface522
+    400530: walls_and_floor_pdiShatterGroup3 polySurface523
+    400532: walls_and_floor_pdiShatterGroup3 polySurface524
+    400534: walls_and_floor_pdiShatterGroup3 polySurface526
+    400536: walls_and_floor_pdiShatterGroup3 polySurface527
+    400538: walls_and_floor_pdiShatterGroup3 polySurface528
+    400540: walls_and_floor_pdiShatterGroup3 polySurface529
+    400542: walls_and_floor_pdiShatterGroup3 polySurface530
+    400544: walls_and_floor_pdiShatterGroup3 polySurface531
+    400546: walls_and_floor_polySurface111
+    400548: walls_and_floor_polySurface122 pdiShatterGroup1
+    400550: walls_and_floor_polySurface242 pdiShatterGroup2
+    400552: walls_and_floor_polySurface3
+    400554: walls_and_floor_polySurface4 polySurface83
+    400556: walls_and_floor_polySurface404 pdiShatterGroup3
+    400558: walls_and_floor_polySurface82 polySurface4
+    400560: walls_and_floor_pSphere1
+    2300000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
+      walls_and_floor
+    2300002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
+      polySurface113
+    2300004: bell_tower:Bell_Tower_bell_tower:pSphere1 bell_tower:polySurface1 walls_and_floor
+      polySurface114
+    2300006: chair_pCube18
+    2300008: chair_pCube20
+    2300010: chair_pCube21 pCube21_s1 polySurface337
+    2300012: chair_pCube21 pCube21_s1 polySurface341
+    2300014: chair_pCube21 pCube21_s1 polySurface358
+    2300016: chair_pCube21 pCube21_s1 polySurface392
+    2300018: chair_pCube21 pCube21_s1 polySurface397
+    2300020: chair_pCube21 polySurface324
+    2300022: chair_pCube21 polySurface336 pCube21_s1
+    2300024: chair_pCube22 polySurface326
+    2300026: chair_pCube23 polySurface328
+    2300028: chair_pCube24 polySurface330
+    2300030: chair_pCube25
+    2300032: chair_pCube26
+    2300034: chair_pCube27
+    2300036: chair_pCube28
+    2300038: chair_pCube29
+    2300040: chair_pCube3 polySurface399
+    2300042: chair_pCube30
+    2300044: chair_pCube31 polySurface403
+    2300046: chair_pCube33
+    2300048: chair_pCube34
+    2300050: chair_pCube35
+    2300052: chair_pCube36
+    2300054: chair_pCube37
+    2300056: chair_pCube38
+    2300058: chair_pCube40
+    2300060: chair_polySurface323 pCube21
+    2300062: chair_polySurface325 pCube22
+    2300064: chair_polySurface327 pCube23
+    2300066: chair_polySurface329 pCube24
+    2300068: chair_polySurface398 pCube3
+    2300070: chair_polySurface401 pCube32
+    2300072: chair_polySurface402 pCube31
+    2300074: churchprops:pCube3_chair
+    2300076: churchprops:pCube4_other
+    2300078: lamp_Lamps
+    2300080: lamp_Lamps1
+    2300082: lamp_Lamps10
+    2300084: lamp_Lamps11 polySurface104
+    2300086: lamp_Lamps12
+    2300088: lamp_Lamps13
+    2300090: lamp_Lamps14 polySurface110
+    2300092: lamp_Lamps16 Lamps15
+    2300094: lamp_Lamps17
+    2300096: lamp_Lamps18
+    2300098: lamp_Lamps19
+    2300100: lamp_Lamps2
+    2300102: lamp_Lamps21 Lamps20
+    2300104: lamp_Lamps3
+    2300106: lamp_Lamps4
+    2300108: lamp_Lamps5
+    2300110: lamp_Lamps6
+    2300112: lamp_Lamps7
+    2300114: lamp_Lamps8
+    2300116: lamp_polySurface10
+    2300118: lamp_polySurface101 Lamps21
+    2300120: lamp_polySurface103 Lamps11
+    2300122: lamp_polySurface105 polySurface9
+    2300124: lamp_polySurface107 Lamps16
+    2300126: lamp_polySurface109 Lamps14
+    2300128: lamp_polySurface9 polySurface106
+    2300130: Lamps9_lamp
+    2300132: other_churchprops:pCube5
+    2300134: other_churchprops:pCube6
+    2300136: other_churchprops:pPlane1
+    2300138: other_pCube17
+    2300140: other_pCube6
+    2300142: other_pPlane2
+    2300144: walls_and_floor_pCube10
+    2300146: walls_and_floor_pCube12
+    2300148: walls_and_floor_pCube13
+    2300150: walls_and_floor_pCube14
+    2300152: walls_and_floor_pCube15
+    2300154: walls_and_floor_pCube5
+    2300156: walls_and_floor_pCube9
+    2300158: walls_and_floor_pdiShatterGroup1 polySurface124
+    2300160: walls_and_floor_pdiShatterGroup1 polySurface126
+    2300162: walls_and_floor_pdiShatterGroup1 polySurface147
+    2300164: walls_and_floor_pdiShatterGroup1 polySurface155
+    2300166: walls_and_floor_pdiShatterGroup1 polySurface156
+    2300168: walls_and_floor_pdiShatterGroup1 polySurface157
+    2300170: walls_and_floor_pdiShatterGroup1 polySurface158
+    2300172: walls_and_floor_pdiShatterGroup1 polySurface159
+    2300174: walls_and_floor_pdiShatterGroup1 polySurface160
+    2300176: walls_and_floor_pdiShatterGroup1 polySurface161
+    2300178: walls_and_floor_pdiShatterGroup1 polySurface163
+    2300180: walls_and_floor_pdiShatterGroup1 polySurface164
+    2300182: walls_and_floor_pdiShatterGroup1 polySurface165
+    2300184: walls_and_floor_pdiShatterGroup1 polySurface167
+    2300186: walls_and_floor_pdiShatterGroup1 polySurface168
+    2300188: walls_and_floor_pdiShatterGroup1 polySurface169
+    2300190: walls_and_floor_pdiShatterGroup1 polySurface170
+    2300192: walls_and_floor_pdiShatterGroup1 polySurface171
+    2300194: walls_and_floor_pdiShatterGroup1 polySurface172
+    2300196: walls_and_floor_pdiShatterGroup1 polySurface174
+    2300198: walls_and_floor_pdiShatterGroup1 polySurface175
+    2300200: walls_and_floor_pdiShatterGroup1 polySurface178
+    2300202: walls_and_floor_pdiShatterGroup1 polySurface179
+    2300204: walls_and_floor_pdiShatterGroup1 polySurface180
+    2300206: walls_and_floor_pdiShatterGroup1 polySurface181
+    2300208: walls_and_floor_pdiShatterGroup1 polySurface182
+    2300210: walls_and_floor_pdiShatterGroup1 polySurface183
+    2300212: walls_and_floor_pdiShatterGroup1 polySurface212
+    2300214: walls_and_floor_pdiShatterGroup1 polySurface213
+    2300216: walls_and_floor_pdiShatterGroup1 polySurface214
+    2300218: walls_and_floor_pdiShatterGroup1 polySurface215
+    2300220: walls_and_floor_pdiShatterGroup1 polySurface216
+    2300222: walls_and_floor_pdiShatterGroup1 polySurface217
+    2300224: walls_and_floor_pdiShatterGroup1 polySurface218
+    2300226: walls_and_floor_pdiShatterGroup1 polySurface220
+    2300228: walls_and_floor_pdiShatterGroup1 polySurface221
+    2300230: walls_and_floor_pdiShatterGroup1 polySurface223
+    2300232: walls_and_floor_pdiShatterGroup1 polySurface224
+    2300234: walls_and_floor_pdiShatterGroup1 polySurface225
+    2300236: walls_and_floor_pdiShatterGroup1 polySurface226
+    2300238: walls_and_floor_pdiShatterGroup1 polySurface227
+    2300240: walls_and_floor_pdiShatterGroup1 polySurface228
+    2300242: walls_and_floor_pdiShatterGroup1 polySurface229
+    2300244: walls_and_floor_pdiShatterGroup1 polySurface230
+    2300246: walls_and_floor_pdiShatterGroup1 polySurface231
+    2300248: walls_and_floor_pdiShatterGroup1 polySurface232
+    2300250: walls_and_floor_pdiShatterGroup1 polySurface233
+    2300252: walls_and_floor_pdiShatterGroup1 polySurface234
+    2300254: walls_and_floor_pdiShatterGroup1 polySurface235
+    2300256: walls_and_floor_pdiShatterGroup1 polySurface236
+    2300258: walls_and_floor_pdiShatterGroup1 polySurface237
+    2300260: walls_and_floor_pdiShatterGroup1 polySurface238
+    2300262: walls_and_floor_pdiShatterGroup1 polySurface240
+    2300264: walls_and_floor_pdiShatterGroup1 polySurface241
+    2300266: walls_and_floor_pdiShatterGroup2 polySurface244
+    2300268: walls_and_floor_pdiShatterGroup2 polySurface245
+    2300270: walls_and_floor_pdiShatterGroup2 polySurface246
+    2300272: walls_and_floor_pdiShatterGroup2 polySurface247
+    2300274: walls_and_floor_pdiShatterGroup2 polySurface248
+    2300276: walls_and_floor_pdiShatterGroup2 polySurface249
+    2300278: walls_and_floor_pdiShatterGroup2 polySurface250
+    2300280: walls_and_floor_pdiShatterGroup2 polySurface251
+    2300282: walls_and_floor_pdiShatterGroup2 polySurface252
+    2300284: walls_and_floor_pdiShatterGroup2 polySurface253
+    2300286: walls_and_floor_pdiShatterGroup2 polySurface254
+    2300288: walls_and_floor_pdiShatterGroup2 polySurface255
+    2300290: walls_and_floor_pdiShatterGroup2 polySurface256
+    2300292: walls_and_floor_pdiShatterGroup2 polySurface257
+    2300294: walls_and_floor_pdiShatterGroup2 polySurface258
+    2300296: walls_and_floor_pdiShatterGroup2 polySurface259
+    2300298: walls_and_floor_pdiShatterGroup2 polySurface260
+    2300300: walls_and_floor_pdiShatterGroup2 polySurface261
+    2300302: walls_and_floor_pdiShatterGroup2 polySurface262
+    2300304: walls_and_floor_pdiShatterGroup2 polySurface263
+    2300306: walls_and_floor_pdiShatterGroup2 polySurface264
+    2300308: walls_and_floor_pdiShatterGroup2 polySurface265
+    2300310: walls_and_floor_pdiShatterGroup2 polySurface266
+    2300312: walls_and_floor_pdiShatterGroup2 polySurface267
+    2300314: walls_and_floor_pdiShatterGroup2 polySurface268
+    2300316: walls_and_floor_pdiShatterGroup2 polySurface269
+    2300318: walls_and_floor_pdiShatterGroup2 polySurface270
+    2300320: walls_and_floor_pdiShatterGroup2 polySurface271
+    2300322: walls_and_floor_pdiShatterGroup2 polySurface272
+    2300324: walls_and_floor_pdiShatterGroup2 polySurface273
+    2300326: walls_and_floor_pdiShatterGroup2 polySurface274
+    2300328: walls_and_floor_pdiShatterGroup2 polySurface275
+    2300330: walls_and_floor_pdiShatterGroup2 polySurface276
+    2300332: walls_and_floor_pdiShatterGroup2 polySurface277
+    2300334: walls_and_floor_pdiShatterGroup2 polySurface278
+    2300336: walls_and_floor_pdiShatterGroup2 polySurface279
+    2300338: walls_and_floor_pdiShatterGroup2 polySurface280
+    2300340: walls_and_floor_pdiShatterGroup2 polySurface281
+    2300342: walls_and_floor_pdiShatterGroup2 polySurface283
+    2300344: walls_and_floor_pdiShatterGroup2 polySurface285
+    2300346: walls_and_floor_pdiShatterGroup2 polySurface290
+    2300348: walls_and_floor_pdiShatterGroup2 polySurface293
+    2300350: walls_and_floor_pdiShatterGroup2 polySurface297
+    2300352: walls_and_floor_pdiShatterGroup2 polySurface298
+    2300354: walls_and_floor_pdiShatterGroup2 polySurface301
+    2300356: walls_and_floor_pdiShatterGroup2 polySurface302
+    2300358: walls_and_floor_pdiShatterGroup2 polySurface304
+    2300360: walls_and_floor_pdiShatterGroup2 polySurface317
+    2300362: walls_and_floor_pdiShatterGroup2 polySurface319
+    2300364: walls_and_floor_pdiShatterGroup2 polySurface320
+    2300366: walls_and_floor_pdiShatterGroup2 polySurface321
+    2300368: walls_and_floor_pdiShatterGroup2 polySurface322
+    2300370: walls_and_floor_pdiShatterGroup3 polySurface405
+    2300372: walls_and_floor_pdiShatterGroup3 polySurface406
+    2300374: walls_and_floor_pdiShatterGroup3 polySurface407
+    2300376: walls_and_floor_pdiShatterGroup3 polySurface408
+    2300378: walls_and_floor_pdiShatterGroup3 polySurface409
+    2300380: walls_and_floor_pdiShatterGroup3 polySurface410
+    2300382: walls_and_floor_pdiShatterGroup3 polySurface411
+    2300384: walls_and_floor_pdiShatterGroup3 polySurface412
+    2300386: walls_and_floor_pdiShatterGroup3 polySurface413
+    2300388: walls_and_floor_pdiShatterGroup3 polySurface414
+    2300390: walls_and_floor_pdiShatterGroup3 polySurface415
+    2300392: walls_and_floor_pdiShatterGroup3 polySurface416
+    2300394: walls_and_floor_pdiShatterGroup3 polySurface417
+    2300396: walls_and_floor_pdiShatterGroup3 polySurface418
+    2300398: walls_and_floor_pdiShatterGroup3 polySurface419
+    2300400: walls_and_floor_pdiShatterGroup3 polySurface420
+    2300402: walls_and_floor_pdiShatterGroup3 polySurface421
+    2300404: walls_and_floor_pdiShatterGroup3 polySurface422
+    2300406: walls_and_floor_pdiShatterGroup3 polySurface423
+    2300408: walls_and_floor_pdiShatterGroup3 polySurface425
+    2300410: walls_and_floor_pdiShatterGroup3 polySurface428
+    2300412: walls_and_floor_pdiShatterGroup3 polySurface430
+    2300414: walls_and_floor_pdiShatterGroup3 polySurface431
+    2300416: walls_and_floor_pdiShatterGroup3 polySurface436
+    2300418: walls_and_floor_pdiShatterGroup3 polySurface438
+    2300420: walls_and_floor_pdiShatterGroup3 polySurface439
+    2300422: walls_and_floor_pdiShatterGroup3 polySurface440
+    2300424: walls_and_floor_pdiShatterGroup3 polySurface443
+    2300426: walls_and_floor_pdiShatterGroup3 polySurface446
+    2300428: walls_and_floor_pdiShatterGroup3 polySurface447
+    2300430: walls_and_floor_pdiShatterGroup3 polySurface449
+    2300432: walls_and_floor_pdiShatterGroup3 polySurface450
+    2300434: walls_and_floor_pdiShatterGroup3 polySurface452
+    2300436: walls_and_floor_pdiShatterGroup3 polySurface453
+    2300438: walls_and_floor_pdiShatterGroup3 polySurface454
+    2300440: walls_and_floor_pdiShatterGroup3 polySurface456
+    2300442: walls_and_floor_pdiShatterGroup3 polySurface457
+    2300444: walls_and_floor_pdiShatterGroup3 polySurface460
+    2300446: walls_and_floor_pdiShatterGroup3 polySurface461
+    2300448: walls_and_floor_pdiShatterGroup3 polySurface462
+    2300450: walls_and_floor_pdiShatterGroup3 polySurface466
+    2300452: walls_and_floor_pdiShatterGroup3 polySurface468
+    2300454: walls_and_floor_pdiShatterGroup3 polySurface469
+    2300456: walls_and_floor_pdiShatterGroup3 polySurface470
+    2300458: walls_and_floor_pdiShatterGroup3 polySurface471
+    2300460: walls_and_floor_pdiShatterGroup3 polySurface472
+    2300462: walls_and_floor_pdiShatterGroup3 polySurface473
+    2300464: walls_and_floor_pdiShatterGroup3 polySurface475
+    2300466: walls_and_floor_pdiShatterGroup3 polySurface477
+    2300468: walls_and_floor_pdiShatterGroup3 polySurface480
+    2300470: walls_and_floor_pdiShatterGroup3 polySurface481
+    2300472: walls_and_floor_pdiShatterGroup3 polySurface482
+    2300474: walls_and_floor_pdiShatterGroup3 polySurface483
+    2300476: walls_and_floor_pdiShatterGroup3 polySurface484
+    2300478: walls_and_floor_pdiShatterGroup3 polySurface485
+    2300480: walls_and_floor_pdiShatterGroup3 polySurface486
+    2300482: walls_and_floor_pdiShatterGroup3 polySurface487
+    2300484: walls_and_floor_pdiShatterGroup3 polySurface488
+    2300486: walls_and_floor_pdiShatterGroup3 polySurface489
+    2300488: walls_and_floor_pdiShatterGroup3 polySurface491
+    2300490: walls_and_floor_pdiShatterGroup3 polySurface492
+    2300492: walls_and_floor_pdiShatterGroup3 polySurface495
+    2300494: walls_and_floor_pdiShatterGroup3 polySurface496
+    2300496: walls_and_floor_pdiShatterGroup3 polySurface498
+    2300498: walls_and_floor_pdiShatterGroup3 polySurface499
+    2300500: walls_and_floor_pdiShatterGroup3 polySurface501
+    2300502: walls_and_floor_pdiShatterGroup3 polySurface507
+    2300504: walls_and_floor_pdiShatterGroup3 polySurface508
+    2300506: walls_and_floor_pdiShatterGroup3 polySurface510
+    2300508: walls_and_floor_pdiShatterGroup3 polySurface511
+    2300510: walls_and_floor_pdiShatterGroup3 polySurface512
+    2300512: walls_and_floor_pdiShatterGroup3 polySurface513
+    2300514: walls_and_floor_pdiShatterGroup3 polySurface514
+    2300516: walls_and_floor_pdiShatterGroup3 polySurface515
+    2300518: walls_and_floor_pdiShatterGroup3 polySurface517
+    2300520: walls_and_floor_pdiShatterGroup3 polySurface518
+    2300522: walls_and_floor_pdiShatterGroup3 polySurface519
+    2300524: walls_and_floor_pdiShatterGroup3 polySurface520
+    2300526: walls_and_floor_pdiShatterGroup3 polySurface522
+    2300528: walls_and_floor_pdiShatterGroup3 polySurface523
+    2300530: walls_and_floor_pdiShatterGroup3 polySurface524
+    2300532: walls_and_floor_pdiShatterGroup3 polySurface526
+    2300534: walls_and_floor_pdiShatterGroup3 polySurface527
+    2300536: walls_and_floor_pdiShatterGroup3 polySurface528
+    2300538: walls_and_floor_pdiShatterGroup3 polySurface529
+    2300540: walls_and_floor_pdiShatterGroup3 polySurface530
+    2300542: walls_and_floor_pdiShatterGroup3 polySurface531
+    2300544: walls_and_floor_polySurface111
+    2300546: walls_and_floor_polySurface122 pdiShatterGroup1
+    2300548: walls_and_floor_polySurface242 pdiShatterGroup2
+    2300550: walls_and_floor_polySurface3
+    2300552: walls_and_floor_polySurface4 polySurface83
+    2300554: walls_and_floor_polySurface404 pdiShatterGroup3
+    2300556: walls_and_floor_polySurface82 polySurface4
+    2300558: walls_and_floor_pSphere1
+    3300000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
+      walls_and_floor
+    3300002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
+      polySurface113
+    3300004: bell_tower:Bell_Tower_bell_tower:pSphere1 bell_tower:polySurface1 walls_and_floor
+      polySurface114
+    3300006: chair_pCube18
+    3300008: chair_pCube20
+    3300010: chair_pCube21 pCube21_s1 polySurface337
+    3300012: chair_pCube21 pCube21_s1 polySurface341
+    3300014: chair_pCube21 pCube21_s1 polySurface358
+    3300016: chair_pCube21 pCube21_s1 polySurface392
+    3300018: chair_pCube21 pCube21_s1 polySurface397
+    3300020: chair_pCube21 polySurface324
+    3300022: chair_pCube21 polySurface336 pCube21_s1
+    3300024: chair_pCube22 polySurface326
+    3300026: chair_pCube23 polySurface328
+    3300028: chair_pCube24 polySurface330
+    3300030: chair_pCube25
+    3300032: chair_pCube26
+    3300034: chair_pCube27
+    3300036: chair_pCube28
+    3300038: chair_pCube29
+    3300040: chair_pCube3 polySurface399
+    3300042: chair_pCube30
+    3300044: chair_pCube31 polySurface403
+    3300046: chair_pCube33
+    3300048: chair_pCube34
+    3300050: chair_pCube35
+    3300052: chair_pCube36
+    3300054: chair_pCube37
+    3300056: chair_pCube38
+    3300058: chair_pCube40
+    3300060: chair_polySurface323 pCube21
+    3300062: chair_polySurface325 pCube22
+    3300064: chair_polySurface327 pCube23
+    3300066: chair_polySurface329 pCube24
+    3300068: chair_polySurface398 pCube3
+    3300070: chair_polySurface401 pCube32
+    3300072: chair_polySurface402 pCube31
+    3300074: churchprops:pCube3_chair
+    3300076: churchprops:pCube4_other
+    3300078: lamp_Lamps
+    3300080: lamp_Lamps1
+    3300082: lamp_Lamps10
+    3300084: lamp_Lamps11 polySurface104
+    3300086: lamp_Lamps12
+    3300088: lamp_Lamps13
+    3300090: lamp_Lamps14 polySurface110
+    3300092: lamp_Lamps16 Lamps15
+    3300094: lamp_Lamps17
+    3300096: lamp_Lamps18
+    3300098: lamp_Lamps19
+    3300100: lamp_Lamps2
+    3300102: lamp_Lamps21 Lamps20
+    3300104: lamp_Lamps3
+    3300106: lamp_Lamps4
+    3300108: lamp_Lamps5
+    3300110: lamp_Lamps6
+    3300112: lamp_Lamps7
+    3300114: lamp_Lamps8
+    3300116: lamp_polySurface10
+    3300118: lamp_polySurface101 Lamps21
+    3300120: lamp_polySurface103 Lamps11
+    3300122: lamp_polySurface105 polySurface9
+    3300124: lamp_polySurface107 Lamps16
+    3300126: lamp_polySurface109 Lamps14
+    3300128: lamp_polySurface9 polySurface106
+    3300130: Lamps9_lamp
+    3300132: other_churchprops:pCube5
+    3300134: other_churchprops:pCube6
+    3300136: other_churchprops:pPlane1
+    3300138: other_pCube17
+    3300140: other_pCube6
+    3300142: other_pPlane2
+    3300144: walls_and_floor_pCube10
+    3300146: walls_and_floor_pCube12
+    3300148: walls_and_floor_pCube13
+    3300150: walls_and_floor_pCube14
+    3300152: walls_and_floor_pCube15
+    3300154: walls_and_floor_pCube5
+    3300156: walls_and_floor_pCube9
+    3300158: walls_and_floor_pdiShatterGroup1 polySurface124
+    3300160: walls_and_floor_pdiShatterGroup1 polySurface126
+    3300162: walls_and_floor_pdiShatterGroup1 polySurface147
+    3300164: walls_and_floor_pdiShatterGroup1 polySurface155
+    3300166: walls_and_floor_pdiShatterGroup1 polySurface156
+    3300168: walls_and_floor_pdiShatterGroup1 polySurface157
+    3300170: walls_and_floor_pdiShatterGroup1 polySurface158
+    3300172: walls_and_floor_pdiShatterGroup1 polySurface159
+    3300174: walls_and_floor_pdiShatterGroup1 polySurface160
+    3300176: walls_and_floor_pdiShatterGroup1 polySurface161
+    3300178: walls_and_floor_pdiShatterGroup1 polySurface163
+    3300180: walls_and_floor_pdiShatterGroup1 polySurface164
+    3300182: walls_and_floor_pdiShatterGroup1 polySurface165
+    3300184: walls_and_floor_pdiShatterGroup1 polySurface167
+    3300186: walls_and_floor_pdiShatterGroup1 polySurface168
+    3300188: walls_and_floor_pdiShatterGroup1 polySurface169
+    3300190: walls_and_floor_pdiShatterGroup1 polySurface170
+    3300192: walls_and_floor_pdiShatterGroup1 polySurface171
+    3300194: walls_and_floor_pdiShatterGroup1 polySurface172
+    3300196: walls_and_floor_pdiShatterGroup1 polySurface174
+    3300198: walls_and_floor_pdiShatterGroup1 polySurface175
+    3300200: walls_and_floor_pdiShatterGroup1 polySurface178
+    3300202: walls_and_floor_pdiShatterGroup1 polySurface179
+    3300204: walls_and_floor_pdiShatterGroup1 polySurface180
+    3300206: walls_and_floor_pdiShatterGroup1 polySurface181
+    3300208: walls_and_floor_pdiShatterGroup1 polySurface182
+    3300210: walls_and_floor_pdiShatterGroup1 polySurface183
+    3300212: walls_and_floor_pdiShatterGroup1 polySurface212
+    3300214: walls_and_floor_pdiShatterGroup1 polySurface213
+    3300216: walls_and_floor_pdiShatterGroup1 polySurface214
+    3300218: walls_and_floor_pdiShatterGroup1 polySurface215
+    3300220: walls_and_floor_pdiShatterGroup1 polySurface216
+    3300222: walls_and_floor_pdiShatterGroup1 polySurface217
+    3300224: walls_and_floor_pdiShatterGroup1 polySurface218
+    3300226: walls_and_floor_pdiShatterGroup1 polySurface220
+    3300228: walls_and_floor_pdiShatterGroup1 polySurface221
+    3300230: walls_and_floor_pdiShatterGroup1 polySurface223
+    3300232: walls_and_floor_pdiShatterGroup1 polySurface224
+    3300234: walls_and_floor_pdiShatterGroup1 polySurface225
+    3300236: walls_and_floor_pdiShatterGroup1 polySurface226
+    3300238: walls_and_floor_pdiShatterGroup1 polySurface227
+    3300240: walls_and_floor_pdiShatterGroup1 polySurface228
+    3300242: walls_and_floor_pdiShatterGroup1 polySurface229
+    3300244: walls_and_floor_pdiShatterGroup1 polySurface230
+    3300246: walls_and_floor_pdiShatterGroup1 polySurface231
+    3300248: walls_and_floor_pdiShatterGroup1 polySurface232
+    3300250: walls_and_floor_pdiShatterGroup1 polySurface233
+    3300252: walls_and_floor_pdiShatterGroup1 polySurface234
+    3300254: walls_and_floor_pdiShatterGroup1 polySurface235
+    3300256: walls_and_floor_pdiShatterGroup1 polySurface236
+    3300258: walls_and_floor_pdiShatterGroup1 polySurface237
+    3300260: walls_and_floor_pdiShatterGroup1 polySurface238
+    3300262: walls_and_floor_pdiShatterGroup1 polySurface240
+    3300264: walls_and_floor_pdiShatterGroup1 polySurface241
+    3300266: walls_and_floor_pdiShatterGroup2 polySurface244
+    3300268: walls_and_floor_pdiShatterGroup2 polySurface245
+    3300270: walls_and_floor_pdiShatterGroup2 polySurface246
+    3300272: walls_and_floor_pdiShatterGroup2 polySurface247
+    3300274: walls_and_floor_pdiShatterGroup2 polySurface248
+    3300276: walls_and_floor_pdiShatterGroup2 polySurface249
+    3300278: walls_and_floor_pdiShatterGroup2 polySurface250
+    3300280: walls_and_floor_pdiShatterGroup2 polySurface251
+    3300282: walls_and_floor_pdiShatterGroup2 polySurface252
+    3300284: walls_and_floor_pdiShatterGroup2 polySurface253
+    3300286: walls_and_floor_pdiShatterGroup2 polySurface254
+    3300288: walls_and_floor_pdiShatterGroup2 polySurface255
+    3300290: walls_and_floor_pdiShatterGroup2 polySurface256
+    3300292: walls_and_floor_pdiShatterGroup2 polySurface257
+    3300294: walls_and_floor_pdiShatterGroup2 polySurface258
+    3300296: walls_and_floor_pdiShatterGroup2 polySurface259
+    3300298: walls_and_floor_pdiShatterGroup2 polySurface260
+    3300300: walls_and_floor_pdiShatterGroup2 polySurface261
+    3300302: walls_and_floor_pdiShatterGroup2 polySurface262
+    3300304: walls_and_floor_pdiShatterGroup2 polySurface263
+    3300306: walls_and_floor_pdiShatterGroup2 polySurface264
+    3300308: walls_and_floor_pdiShatterGroup2 polySurface265
+    3300310: walls_and_floor_pdiShatterGroup2 polySurface266
+    3300312: walls_and_floor_pdiShatterGroup2 polySurface267
+    3300314: walls_and_floor_pdiShatterGroup2 polySurface268
+    3300316: walls_and_floor_pdiShatterGroup2 polySurface269
+    3300318: walls_and_floor_pdiShatterGroup2 polySurface270
+    3300320: walls_and_floor_pdiShatterGroup2 polySurface271
+    3300322: walls_and_floor_pdiShatterGroup2 polySurface272
+    3300324: walls_and_floor_pdiShatterGroup2 polySurface273
+    3300326: walls_and_floor_pdiShatterGroup2 polySurface274
+    3300328: walls_and_floor_pdiShatterGroup2 polySurface275
+    3300330: walls_and_floor_pdiShatterGroup2 polySurface276
+    3300332: walls_and_floor_pdiShatterGroup2 polySurface277
+    3300334: walls_and_floor_pdiShatterGroup2 polySurface278
+    3300336: walls_and_floor_pdiShatterGroup2 polySurface279
+    3300338: walls_and_floor_pdiShatterGroup2 polySurface280
+    3300340: walls_and_floor_pdiShatterGroup2 polySurface281
+    3300342: walls_and_floor_pdiShatterGroup2 polySurface283
+    3300344: walls_and_floor_pdiShatterGroup2 polySurface285
+    3300346: walls_and_floor_pdiShatterGroup2 polySurface290
+    3300348: walls_and_floor_pdiShatterGroup2 polySurface293
+    3300350: walls_and_floor_pdiShatterGroup2 polySurface297
+    3300352: walls_and_floor_pdiShatterGroup2 polySurface298
+    3300354: walls_and_floor_pdiShatterGroup2 polySurface301
+    3300356: walls_and_floor_pdiShatterGroup2 polySurface302
+    3300358: walls_and_floor_pdiShatterGroup2 polySurface304
+    3300360: walls_and_floor_pdiShatterGroup2 polySurface317
+    3300362: walls_and_floor_pdiShatterGroup2 polySurface319
+    3300364: walls_and_floor_pdiShatterGroup2 polySurface320
+    3300366: walls_and_floor_pdiShatterGroup2 polySurface321
+    3300368: walls_and_floor_pdiShatterGroup2 polySurface322
+    3300370: walls_and_floor_pdiShatterGroup3 polySurface405
+    3300372: walls_and_floor_pdiShatterGroup3 polySurface406
+    3300374: walls_and_floor_pdiShatterGroup3 polySurface407
+    3300376: walls_and_floor_pdiShatterGroup3 polySurface408
+    3300378: walls_and_floor_pdiShatterGroup3 polySurface409
+    3300380: walls_and_floor_pdiShatterGroup3 polySurface410
+    3300382: walls_and_floor_pdiShatterGroup3 polySurface411
+    3300384: walls_and_floor_pdiShatterGroup3 polySurface412
+    3300386: walls_and_floor_pdiShatterGroup3 polySurface413
+    3300388: walls_and_floor_pdiShatterGroup3 polySurface414
+    3300390: walls_and_floor_pdiShatterGroup3 polySurface415
+    3300392: walls_and_floor_pdiShatterGroup3 polySurface416
+    3300394: walls_and_floor_pdiShatterGroup3 polySurface417
+    3300396: walls_and_floor_pdiShatterGroup3 polySurface418
+    3300398: walls_and_floor_pdiShatterGroup3 polySurface419
+    3300400: walls_and_floor_pdiShatterGroup3 polySurface420
+    3300402: walls_and_floor_pdiShatterGroup3 polySurface421
+    3300404: walls_and_floor_pdiShatterGroup3 polySurface422
+    3300406: walls_and_floor_pdiShatterGroup3 polySurface423
+    3300408: walls_and_floor_pdiShatterGroup3 polySurface425
+    3300410: walls_and_floor_pdiShatterGroup3 polySurface428
+    3300412: walls_and_floor_pdiShatterGroup3 polySurface430
+    3300414: walls_and_floor_pdiShatterGroup3 polySurface431
+    3300416: walls_and_floor_pdiShatterGroup3 polySurface436
+    3300418: walls_and_floor_pdiShatterGroup3 polySurface438
+    3300420: walls_and_floor_pdiShatterGroup3 polySurface439
+    3300422: walls_and_floor_pdiShatterGroup3 polySurface440
+    3300424: walls_and_floor_pdiShatterGroup3 polySurface443
+    3300426: walls_and_floor_pdiShatterGroup3 polySurface446
+    3300428: walls_and_floor_pdiShatterGroup3 polySurface447
+    3300430: walls_and_floor_pdiShatterGroup3 polySurface449
+    3300432: walls_and_floor_pdiShatterGroup3 polySurface450
+    3300434: walls_and_floor_pdiShatterGroup3 polySurface452
+    3300436: walls_and_floor_pdiShatterGroup3 polySurface453
+    3300438: walls_and_floor_pdiShatterGroup3 polySurface454
+    3300440: walls_and_floor_pdiShatterGroup3 polySurface456
+    3300442: walls_and_floor_pdiShatterGroup3 polySurface457
+    3300444: walls_and_floor_pdiShatterGroup3 polySurface460
+    3300446: walls_and_floor_pdiShatterGroup3 polySurface461
+    3300448: walls_and_floor_pdiShatterGroup3 polySurface462
+    3300450: walls_and_floor_pdiShatterGroup3 polySurface466
+    3300452: walls_and_floor_pdiShatterGroup3 polySurface468
+    3300454: walls_and_floor_pdiShatterGroup3 polySurface469
+    3300456: walls_and_floor_pdiShatterGroup3 polySurface470
+    3300458: walls_and_floor_pdiShatterGroup3 polySurface471
+    3300460: walls_and_floor_pdiShatterGroup3 polySurface472
+    3300462: walls_and_floor_pdiShatterGroup3 polySurface473
+    3300464: walls_and_floor_pdiShatterGroup3 polySurface475
+    3300466: walls_and_floor_pdiShatterGroup3 polySurface477
+    3300468: walls_and_floor_pdiShatterGroup3 polySurface480
+    3300470: walls_and_floor_pdiShatterGroup3 polySurface481
+    3300472: walls_and_floor_pdiShatterGroup3 polySurface482
+    3300474: walls_and_floor_pdiShatterGroup3 polySurface483
+    3300476: walls_and_floor_pdiShatterGroup3 polySurface484
+    3300478: walls_and_floor_pdiShatterGroup3 polySurface485
+    3300480: walls_and_floor_pdiShatterGroup3 polySurface486
+    3300482: walls_and_floor_pdiShatterGroup3 polySurface487
+    3300484: walls_and_floor_pdiShatterGroup3 polySurface488
+    3300486: walls_and_floor_pdiShatterGroup3 polySurface489
+    3300488: walls_and_floor_pdiShatterGroup3 polySurface491
+    3300490: walls_and_floor_pdiShatterGroup3 polySurface492
+    3300492: walls_and_floor_pdiShatterGroup3 polySurface495
+    3300494: walls_and_floor_pdiShatterGroup3 polySurface496
+    3300496: walls_and_floor_pdiShatterGroup3 polySurface498
+    3300498: walls_and_floor_pdiShatterGroup3 polySurface499
+    3300500: walls_and_floor_pdiShatterGroup3 polySurface501
+    3300502: walls_and_floor_pdiShatterGroup3 polySurface507
+    3300504: walls_and_floor_pdiShatterGroup3 polySurface508
+    3300506: walls_and_floor_pdiShatterGroup3 polySurface510
+    3300508: walls_and_floor_pdiShatterGroup3 polySurface511
+    3300510: walls_and_floor_pdiShatterGroup3 polySurface512
+    3300512: walls_and_floor_pdiShatterGroup3 polySurface513
+    3300514: walls_and_floor_pdiShatterGroup3 polySurface514
+    3300516: walls_and_floor_pdiShatterGroup3 polySurface515
+    3300518: walls_and_floor_pdiShatterGroup3 polySurface517
+    3300520: walls_and_floor_pdiShatterGroup3 polySurface518
+    3300522: walls_and_floor_pdiShatterGroup3 polySurface519
+    3300524: walls_and_floor_pdiShatterGroup3 polySurface520
+    3300526: walls_and_floor_pdiShatterGroup3 polySurface522
+    3300528: walls_and_floor_pdiShatterGroup3 polySurface523
+    3300530: walls_and_floor_pdiShatterGroup3 polySurface524
+    3300532: walls_and_floor_pdiShatterGroup3 polySurface526
+    3300534: walls_and_floor_pdiShatterGroup3 polySurface527
+    3300536: walls_and_floor_pdiShatterGroup3 polySurface528
+    3300538: walls_and_floor_pdiShatterGroup3 polySurface529
+    3300540: walls_and_floor_pdiShatterGroup3 polySurface530
+    3300542: walls_and_floor_pdiShatterGroup3 polySurface531
+    3300544: walls_and_floor_polySurface111
+    3300546: walls_and_floor_polySurface122 pdiShatterGroup1
+    3300548: walls_and_floor_polySurface242 pdiShatterGroup2
+    3300550: walls_and_floor_polySurface3
+    3300552: walls_and_floor_polySurface4 polySurface83
+    3300554: walls_and_floor_polySurface404 pdiShatterGroup3
+    3300556: walls_and_floor_polySurface82 polySurface4
+    3300558: walls_and_floor_pSphere1
+    4300000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
+      walls_and_floor
+    4300002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
+      polySurface113
+    4300004: bell_tower:Bell_Tower_bell_tower:pSphere1 bell_tower:polySurface1 walls_and_floor
+      polySurface114
+    4300006: chair_pCube18
+    4300008: chair_pCube20
+    4300010: chair_pCube21 pCube21_s1 polySurface337
+    4300012: chair_pCube21 pCube21_s1 polySurface341
+    4300014: chair_pCube21 pCube21_s1 polySurface358
+    4300016: chair_pCube21 pCube21_s1 polySurface392
+    4300018: chair_pCube21 pCube21_s1 polySurface397
+    4300020: chair_pCube21 polySurface324
+    4300022: chair_pCube21 polySurface336 pCube21_s1
+    4300024: chair_pCube22 polySurface326
+    4300026: chair_pCube23 polySurface328
+    4300028: chair_pCube24 polySurface330
+    4300030: chair_pCube25
+    4300032: chair_pCube26
+    4300034: chair_pCube27
+    4300036: chair_pCube28
+    4300038: chair_pCube29
+    4300040: chair_pCube3 polySurface399
+    4300042: chair_pCube30
+    4300044: chair_pCube31 polySurface403
+    4300046: chair_pCube33
+    4300048: chair_pCube34
+    4300050: chair_pCube35
+    4300052: chair_pCube36
+    4300054: chair_pCube37
+    4300056: chair_pCube38
+    4300058: chair_pCube40
+    4300060: chair_polySurface323 pCube21
+    4300062: chair_polySurface325 pCube22
+    4300064: chair_polySurface327 pCube23
+    4300066: chair_polySurface329 pCube24
+    4300068: chair_polySurface398 pCube3
+    4300070: chair_polySurface401 pCube32
+    4300072: chair_polySurface402 pCube31
+    4300074: churchprops:pCube3_chair
+    4300076: churchprops:pCube4_other
+    4300078: lamp_Lamps
+    4300080: lamp_Lamps1
+    4300082: lamp_Lamps10
+    4300084: lamp_Lamps11 polySurface104
+    4300086: lamp_Lamps12
+    4300088: lamp_Lamps13
+    4300090: lamp_Lamps14 polySurface110
+    4300092: lamp_Lamps16 Lamps15
+    4300094: lamp_Lamps17
+    4300096: lamp_Lamps18
+    4300098: lamp_Lamps19
+    4300100: lamp_Lamps2
+    4300102: lamp_Lamps21 Lamps20
+    4300104: lamp_Lamps3
+    4300106: lamp_Lamps4
+    4300108: lamp_Lamps5
+    4300110: lamp_Lamps6
+    4300112: lamp_Lamps7
+    4300114: lamp_Lamps8
+    4300116: lamp_polySurface10
+    4300118: lamp_polySurface101 Lamps21
+    4300120: lamp_polySurface103 Lamps11
+    4300122: lamp_polySurface105 polySurface9
+    4300124: lamp_polySurface107 Lamps16
+    4300126: lamp_polySurface109 Lamps14
+    4300128: lamp_polySurface9 polySurface106
+    4300130: Lamps9_lamp
+    4300132: other_churchprops:pCube5
+    4300134: other_churchprops:pCube6
+    4300136: other_churchprops:pPlane1
+    4300138: other_pCube17
+    4300140: other_pCube6
+    4300142: other_pPlane2
+    4300144: walls_and_floor_pCube10
+    4300146: walls_and_floor_pCube12
+    4300148: walls_and_floor_pCube13
+    4300150: walls_and_floor_pCube14
+    4300152: walls_and_floor_pCube15
+    4300154: walls_and_floor_pCube5
+    4300156: walls_and_floor_pCube9
+    4300158: walls_and_floor_pdiShatterGroup1 polySurface124
+    4300160: walls_and_floor_pdiShatterGroup1 polySurface126
+    4300162: walls_and_floor_pdiShatterGroup1 polySurface147
+    4300164: walls_and_floor_pdiShatterGroup1 polySurface155
+    4300166: walls_and_floor_pdiShatterGroup1 polySurface156
+    4300168: walls_and_floor_pdiShatterGroup1 polySurface157
+    4300170: walls_and_floor_pdiShatterGroup1 polySurface158
+    4300172: walls_and_floor_pdiShatterGroup1 polySurface159
+    4300174: walls_and_floor_pdiShatterGroup1 polySurface160
+    4300176: walls_and_floor_pdiShatterGroup1 polySurface161
+    4300178: walls_and_floor_pdiShatterGroup1 polySurface163
+    4300180: walls_and_floor_pdiShatterGroup1 polySurface164
+    4300182: walls_and_floor_pdiShatterGroup1 polySurface165
+    4300184: walls_and_floor_pdiShatterGroup1 polySurface167
+    4300186: walls_and_floor_pdiShatterGroup1 polySurface168
+    4300188: walls_and_floor_pdiShatterGroup1 polySurface169
+    4300190: walls_and_floor_pdiShatterGroup1 polySurface170
+    4300192: walls_and_floor_pdiShatterGroup1 polySurface171
+    4300194: walls_and_floor_pdiShatterGroup1 polySurface172
+    4300196: walls_and_floor_pdiShatterGroup1 polySurface174
+    4300198: walls_and_floor_pdiShatterGroup1 polySurface175
+    4300200: walls_and_floor_pdiShatterGroup1 polySurface178
+    4300202: walls_and_floor_pdiShatterGroup1 polySurface179
+    4300204: walls_and_floor_pdiShatterGroup1 polySurface180
+    4300206: walls_and_floor_pdiShatterGroup1 polySurface181
+    4300208: walls_and_floor_pdiShatterGroup1 polySurface182
+    4300210: walls_and_floor_pdiShatterGroup1 polySurface183
+    4300212: walls_and_floor_pdiShatterGroup1 polySurface212
+    4300214: walls_and_floor_pdiShatterGroup1 polySurface213
+    4300216: walls_and_floor_pdiShatterGroup1 polySurface214
+    4300218: walls_and_floor_pdiShatterGroup1 polySurface215
+    4300220: walls_and_floor_pdiShatterGroup1 polySurface216
+    4300222: walls_and_floor_pdiShatterGroup1 polySurface217
+    4300224: walls_and_floor_pdiShatterGroup1 polySurface218
+    4300226: walls_and_floor_pdiShatterGroup1 polySurface220
+    4300228: walls_and_floor_pdiShatterGroup1 polySurface221
+    4300230: walls_and_floor_pdiShatterGroup1 polySurface223
+    4300232: walls_and_floor_pdiShatterGroup1 polySurface224
+    4300234: walls_and_floor_pdiShatterGroup1 polySurface225
+    4300236: walls_and_floor_pdiShatterGroup1 polySurface226
+    4300238: walls_and_floor_pdiShatterGroup1 polySurface227
+    4300240: walls_and_floor_pdiShatterGroup1 polySurface228
+    4300242: walls_and_floor_pdiShatterGroup1 polySurface229
+    4300244: walls_and_floor_pdiShatterGroup1 polySurface230
+    4300246: walls_and_floor_pdiShatterGroup1 polySurface231
+    4300248: walls_and_floor_pdiShatterGroup1 polySurface232
+    4300250: walls_and_floor_pdiShatterGroup1 polySurface233
+    4300252: walls_and_floor_pdiShatterGroup1 polySurface234
+    4300254: walls_and_floor_pdiShatterGroup1 polySurface235
+    4300256: walls_and_floor_pdiShatterGroup1 polySurface236
+    4300258: walls_and_floor_pdiShatterGroup1 polySurface237
+    4300260: walls_and_floor_pdiShatterGroup1 polySurface238
+    4300262: walls_and_floor_pdiShatterGroup1 polySurface240
+    4300264: walls_and_floor_pdiShatterGroup1 polySurface241
+    4300266: walls_and_floor_pdiShatterGroup2 polySurface244
+    4300268: walls_and_floor_pdiShatterGroup2 polySurface245
+    4300270: walls_and_floor_pdiShatterGroup2 polySurface246
+    4300272: walls_and_floor_pdiShatterGroup2 polySurface247
+    4300274: walls_and_floor_pdiShatterGroup2 polySurface248
+    4300276: walls_and_floor_pdiShatterGroup2 polySurface249
+    4300278: walls_and_floor_pdiShatterGroup2 polySurface250
+    4300280: walls_and_floor_pdiShatterGroup2 polySurface251
+    4300282: walls_and_floor_pdiShatterGroup2 polySurface252
+    4300284: walls_and_floor_pdiShatterGroup2 polySurface253
+    4300286: walls_and_floor_pdiShatterGroup2 polySurface254
+    4300288: walls_and_floor_pdiShatterGroup2 polySurface255
+    4300290: walls_and_floor_pdiShatterGroup2 polySurface256
+    4300292: walls_and_floor_pdiShatterGroup2 polySurface257
+    4300294: walls_and_floor_pdiShatterGroup2 polySurface258
+    4300296: walls_and_floor_pdiShatterGroup2 polySurface259
+    4300298: walls_and_floor_pdiShatterGroup2 polySurface260
+    4300300: walls_and_floor_pdiShatterGroup2 polySurface261
+    4300302: walls_and_floor_pdiShatterGroup2 polySurface262
+    4300304: walls_and_floor_pdiShatterGroup2 polySurface263
+    4300306: walls_and_floor_pdiShatterGroup2 polySurface264
+    4300308: walls_and_floor_pdiShatterGroup2 polySurface265
+    4300310: walls_and_floor_pdiShatterGroup2 polySurface266
+    4300312: walls_and_floor_pdiShatterGroup2 polySurface267
+    4300314: walls_and_floor_pdiShatterGroup2 polySurface268
+    4300316: walls_and_floor_pdiShatterGroup2 polySurface269
+    4300318: walls_and_floor_pdiShatterGroup2 polySurface270
+    4300320: walls_and_floor_pdiShatterGroup2 polySurface271
+    4300322: walls_and_floor_pdiShatterGroup2 polySurface272
+    4300324: walls_and_floor_pdiShatterGroup2 polySurface273
+    4300326: walls_and_floor_pdiShatterGroup2 polySurface274
+    4300328: walls_and_floor_pdiShatterGroup2 polySurface275
+    4300330: walls_and_floor_pdiShatterGroup2 polySurface276
+    4300332: walls_and_floor_pdiShatterGroup2 polySurface277
+    4300334: walls_and_floor_pdiShatterGroup2 polySurface278
+    4300336: walls_and_floor_pdiShatterGroup2 polySurface279
+    4300338: walls_and_floor_pdiShatterGroup2 polySurface280
+    4300340: walls_and_floor_pdiShatterGroup2 polySurface281
+    4300342: walls_and_floor_pdiShatterGroup2 polySurface283
+    4300344: walls_and_floor_pdiShatterGroup2 polySurface285
+    4300346: walls_and_floor_pdiShatterGroup2 polySurface290
+    4300348: walls_and_floor_pdiShatterGroup2 polySurface293
+    4300350: walls_and_floor_pdiShatterGroup2 polySurface297
+    4300352: walls_and_floor_pdiShatterGroup2 polySurface298
+    4300354: walls_and_floor_pdiShatterGroup2 polySurface301
+    4300356: walls_and_floor_pdiShatterGroup2 polySurface302
+    4300358: walls_and_floor_pdiShatterGroup2 polySurface304
+    4300360: walls_and_floor_pdiShatterGroup2 polySurface317
+    4300362: walls_and_floor_pdiShatterGroup2 polySurface319
+    4300364: walls_and_floor_pdiShatterGroup2 polySurface320
+    4300366: walls_and_floor_pdiShatterGroup2 polySurface321
+    4300368: walls_and_floor_pdiShatterGroup2 polySurface322
+    4300370: walls_and_floor_pdiShatterGroup3 polySurface405
+    4300372: walls_and_floor_pdiShatterGroup3 polySurface406
+    4300374: walls_and_floor_pdiShatterGroup3 polySurface407
+    4300376: walls_and_floor_pdiShatterGroup3 polySurface408
+    4300378: walls_and_floor_pdiShatterGroup3 polySurface409
+    4300380: walls_and_floor_pdiShatterGroup3 polySurface410
+    4300382: walls_and_floor_pdiShatterGroup3 polySurface411
+    4300384: walls_and_floor_pdiShatterGroup3 polySurface412
+    4300386: walls_and_floor_pdiShatterGroup3 polySurface413
+    4300388: walls_and_floor_pdiShatterGroup3 polySurface414
+    4300390: walls_and_floor_pdiShatterGroup3 polySurface415
+    4300392: walls_and_floor_pdiShatterGroup3 polySurface416
+    4300394: walls_and_floor_pdiShatterGroup3 polySurface417
+    4300396: walls_and_floor_pdiShatterGroup3 polySurface418
+    4300398: walls_and_floor_pdiShatterGroup3 polySurface419
+    4300400: walls_and_floor_pdiShatterGroup3 polySurface420
+    4300402: walls_and_floor_pdiShatterGroup3 polySurface421
+    4300404: walls_and_floor_pdiShatterGroup3 polySurface422
+    4300406: walls_and_floor_pdiShatterGroup3 polySurface423
+    4300408: walls_and_floor_pdiShatterGroup3 polySurface425
+    4300410: walls_and_floor_pdiShatterGroup3 polySurface428
+    4300412: walls_and_floor_pdiShatterGroup3 polySurface430
+    4300414: walls_and_floor_pdiShatterGroup3 polySurface431
+    4300416: walls_and_floor_pdiShatterGroup3 polySurface436
+    4300418: walls_and_floor_pdiShatterGroup3 polySurface438
+    4300420: walls_and_floor_pdiShatterGroup3 polySurface439
+    4300422: walls_and_floor_pdiShatterGroup3 polySurface440
+    4300424: walls_and_floor_pdiShatterGroup3 polySurface443
+    4300426: walls_and_floor_pdiShatterGroup3 polySurface446
+    4300428: walls_and_floor_pdiShatterGroup3 polySurface447
+    4300430: walls_and_floor_pdiShatterGroup3 polySurface449
+    4300432: walls_and_floor_pdiShatterGroup3 polySurface450
+    4300434: walls_and_floor_pdiShatterGroup3 polySurface452
+    4300436: walls_and_floor_pdiShatterGroup3 polySurface453
+    4300438: walls_and_floor_pdiShatterGroup3 polySurface454
+    4300440: walls_and_floor_pdiShatterGroup3 polySurface456
+    4300442: walls_and_floor_pdiShatterGroup3 polySurface457
+    4300444: walls_and_floor_pdiShatterGroup3 polySurface460
+    4300446: walls_and_floor_pdiShatterGroup3 polySurface461
+    4300448: walls_and_floor_pdiShatterGroup3 polySurface462
+    4300450: walls_and_floor_pdiShatterGroup3 polySurface466
+    4300452: walls_and_floor_pdiShatterGroup3 polySurface468
+    4300454: walls_and_floor_pdiShatterGroup3 polySurface469
+    4300456: walls_and_floor_pdiShatterGroup3 polySurface470
+    4300458: walls_and_floor_pdiShatterGroup3 polySurface471
+    4300460: walls_and_floor_pdiShatterGroup3 polySurface472
+    4300462: walls_and_floor_pdiShatterGroup3 polySurface473
+    4300464: walls_and_floor_pdiShatterGroup3 polySurface475
+    4300466: walls_and_floor_pdiShatterGroup3 polySurface477
+    4300468: walls_and_floor_pdiShatterGroup3 polySurface480
+    4300470: walls_and_floor_pdiShatterGroup3 polySurface481
+    4300472: walls_and_floor_pdiShatterGroup3 polySurface482
+    4300474: walls_and_floor_pdiShatterGroup3 polySurface483
+    4300476: walls_and_floor_pdiShatterGroup3 polySurface484
+    4300478: walls_and_floor_pdiShatterGroup3 polySurface485
+    4300480: walls_and_floor_pdiShatterGroup3 polySurface486
+    4300482: walls_and_floor_pdiShatterGroup3 polySurface487
+    4300484: walls_and_floor_pdiShatterGroup3 polySurface488
+    4300486: walls_and_floor_pdiShatterGroup3 polySurface489
+    4300488: walls_and_floor_pdiShatterGroup3 polySurface491
+    4300490: walls_and_floor_pdiShatterGroup3 polySurface492
+    4300492: walls_and_floor_pdiShatterGroup3 polySurface495
+    4300494: walls_and_floor_pdiShatterGroup3 polySurface496
+    4300496: walls_and_floor_pdiShatterGroup3 polySurface498
+    4300498: walls_and_floor_pdiShatterGroup3 polySurface499
+    4300500: walls_and_floor_pdiShatterGroup3 polySurface501
+    4300502: walls_and_floor_pdiShatterGroup3 polySurface507
+    4300504: walls_and_floor_pdiShatterGroup3 polySurface508
+    4300506: walls_and_floor_pdiShatterGroup3 polySurface510
+    4300508: walls_and_floor_pdiShatterGroup3 polySurface511
+    4300510: walls_and_floor_pdiShatterGroup3 polySurface512
+    4300512: walls_and_floor_pdiShatterGroup3 polySurface513
+    4300514: walls_and_floor_pdiShatterGroup3 polySurface514
+    4300516: walls_and_floor_pdiShatterGroup3 polySurface515
+    4300518: walls_and_floor_pdiShatterGroup3 polySurface517
+    4300520: walls_and_floor_pdiShatterGroup3 polySurface518
+    4300522: walls_and_floor_pdiShatterGroup3 polySurface519
+    4300524: walls_and_floor_pdiShatterGroup3 polySurface520
+    4300526: walls_and_floor_pdiShatterGroup3 polySurface522
+    4300528: walls_and_floor_pdiShatterGroup3 polySurface523
+    4300530: walls_and_floor_pdiShatterGroup3 polySurface524
+    4300532: walls_and_floor_pdiShatterGroup3 polySurface526
+    4300534: walls_and_floor_pdiShatterGroup3 polySurface527
+    4300536: walls_and_floor_pdiShatterGroup3 polySurface528
+    4300538: walls_and_floor_pdiShatterGroup3 polySurface529
+    4300540: walls_and_floor_pdiShatterGroup3 polySurface530
+    4300542: walls_and_floor_pdiShatterGroup3 polySurface531
+    4300544: walls_and_floor_polySurface111
+    4300546: walls_and_floor_polySurface122 pdiShatterGroup1
+    4300548: walls_and_floor_polySurface242 pdiShatterGroup2
+    4300550: walls_and_floor_polySurface3
+    4300552: walls_and_floor_polySurface4 polySurface83
+    4300554: walls_and_floor_polySurface404 pdiShatterGroup3
+    4300556: walls_and_floor_polySurface82 polySurface4
+    4300558: walls_and_floor_pSphere1
+    6400000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
+      walls_and_floor
+    6400002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
+      polySurface113
+    6400004: bell_tower:Bell_Tower_bell_tower:pSphere1 bell_tower:polySurface1 walls_and_floor
+      polySurface114
+    6400006: chair_pCube18
+    6400008: chair_pCube20
+    6400010: chair_pCube21 pCube21_s1 polySurface337
+    6400012: chair_pCube21 pCube21_s1 polySurface341
+    6400014: chair_pCube21 pCube21_s1 polySurface358
+    6400016: chair_pCube21 pCube21_s1 polySurface392
+    6400018: chair_pCube21 pCube21_s1 polySurface397
+    6400020: chair_pCube21 polySurface324
+    6400022: chair_pCube21 polySurface336 pCube21_s1
+    6400024: chair_pCube22 polySurface326
+    6400026: chair_pCube23 polySurface328
+    6400028: chair_pCube24 polySurface330
+    6400030: chair_pCube25
+    6400032: chair_pCube26
+    6400034: chair_pCube27
+    6400036: chair_pCube28
+    6400038: chair_pCube29
+    6400040: chair_pCube3 polySurface399
+    6400042: chair_pCube30
+    6400044: chair_pCube31 polySurface403
+    6400046: chair_pCube33
+    6400048: chair_pCube34
+    6400050: chair_pCube35
+    6400052: chair_pCube36
+    6400054: chair_pCube37
+    6400056: chair_pCube38
+    6400058: chair_pCube40
+    6400060: chair_polySurface323 pCube21
+    6400062: chair_polySurface325 pCube22
+    6400064: chair_polySurface327 pCube23
+    6400066: chair_polySurface329 pCube24
+    6400068: chair_polySurface398 pCube3
+    6400070: chair_polySurface401 pCube32
+    6400072: chair_polySurface402 pCube31
+    6400074: churchprops:pCube3_chair
+    6400076: churchprops:pCube4_other
+    6400078: lamp_Lamps
+    6400080: lamp_Lamps1
+    6400082: lamp_Lamps10
+    6400084: lamp_Lamps11 polySurface104
+    6400086: lamp_Lamps12
+    6400088: lamp_Lamps13
+    6400090: lamp_Lamps14 polySurface110
+    6400092: lamp_Lamps16 Lamps15
+    6400094: lamp_Lamps17
+    6400096: lamp_Lamps18
+    6400098: lamp_Lamps19
+    6400100: lamp_Lamps2
+    6400102: lamp_Lamps21 Lamps20
+    6400104: lamp_Lamps3
+    6400106: lamp_Lamps4
+    6400108: lamp_Lamps5
+    6400110: lamp_Lamps6
+    6400112: lamp_Lamps7
+    6400114: lamp_Lamps8
+    6400116: lamp_polySurface10
+    6400118: lamp_polySurface101 Lamps21
+    6400120: lamp_polySurface103 Lamps11
+    6400122: lamp_polySurface105 polySurface9
+    6400124: lamp_polySurface107 Lamps16
+    6400126: lamp_polySurface109 Lamps14
+    6400128: lamp_polySurface9 polySurface106
+    6400130: Lamps9_lamp
+    6400132: other_churchprops:pCube5
+    6400134: other_churchprops:pCube6
+    6400136: other_churchprops:pPlane1
+    6400138: other_pCube17
+    6400140: other_pCube6
+    6400142: other_pPlane2
+    6400144: walls_and_floor_pCube10
+    6400146: walls_and_floor_pCube12
+    6400148: walls_and_floor_pCube13
+    6400150: walls_and_floor_pCube14
+    6400152: walls_and_floor_pCube15
+    6400154: walls_and_floor_pCube5
+    6400156: walls_and_floor_pCube9
+    6400158: walls_and_floor_pdiShatterGroup1 polySurface124
+    6400160: walls_and_floor_pdiShatterGroup1 polySurface126
+    6400162: walls_and_floor_pdiShatterGroup1 polySurface147
+    6400164: walls_and_floor_pdiShatterGroup1 polySurface155
+    6400166: walls_and_floor_pdiShatterGroup1 polySurface156
+    6400168: walls_and_floor_pdiShatterGroup1 polySurface157
+    6400170: walls_and_floor_pdiShatterGroup1 polySurface158
+    6400172: walls_and_floor_pdiShatterGroup1 polySurface159
+    6400174: walls_and_floor_pdiShatterGroup1 polySurface160
+    6400176: walls_and_floor_pdiShatterGroup1 polySurface161
+    6400178: walls_and_floor_pdiShatterGroup1 polySurface163
+    6400180: walls_and_floor_pdiShatterGroup1 polySurface164
+    6400182: walls_and_floor_pdiShatterGroup1 polySurface165
+    6400184: walls_and_floor_pdiShatterGroup1 polySurface167
+    6400186: walls_and_floor_pdiShatterGroup1 polySurface168
+    6400188: walls_and_floor_pdiShatterGroup1 polySurface169
+    6400190: walls_and_floor_pdiShatterGroup1 polySurface170
+    6400192: walls_and_floor_pdiShatterGroup1 polySurface171
+    6400194: walls_and_floor_pdiShatterGroup1 polySurface172
+    6400196: walls_and_floor_pdiShatterGroup1 polySurface174
+    6400198: walls_and_floor_pdiShatterGroup1 polySurface175
+    6400200: walls_and_floor_pdiShatterGroup1 polySurface178
+    6400202: walls_and_floor_pdiShatterGroup1 polySurface179
+    6400204: walls_and_floor_pdiShatterGroup1 polySurface180
+    6400206: walls_and_floor_pdiShatterGroup1 polySurface181
+    6400208: walls_and_floor_pdiShatterGroup1 polySurface182
+    6400210: walls_and_floor_pdiShatterGroup1 polySurface183
+    6400212: walls_and_floor_pdiShatterGroup1 polySurface212
+    6400214: walls_and_floor_pdiShatterGroup1 polySurface213
+    6400216: walls_and_floor_pdiShatterGroup1 polySurface214
+    6400218: walls_and_floor_pdiShatterGroup1 polySurface215
+    6400220: walls_and_floor_pdiShatterGroup1 polySurface216
+    6400222: walls_and_floor_pdiShatterGroup1 polySurface217
+    6400224: walls_and_floor_pdiShatterGroup1 polySurface218
+    6400226: walls_and_floor_pdiShatterGroup1 polySurface220
+    6400228: walls_and_floor_pdiShatterGroup1 polySurface221
+    6400230: walls_and_floor_pdiShatterGroup1 polySurface223
+    6400232: walls_and_floor_pdiShatterGroup1 polySurface224
+    6400234: walls_and_floor_pdiShatterGroup1 polySurface225
+    6400236: walls_and_floor_pdiShatterGroup1 polySurface226
+    6400238: walls_and_floor_pdiShatterGroup1 polySurface227
+    6400240: walls_and_floor_pdiShatterGroup1 polySurface228
+    6400242: walls_and_floor_pdiShatterGroup1 polySurface229
+    6400244: walls_and_floor_pdiShatterGroup1 polySurface230
+    6400246: walls_and_floor_pdiShatterGroup1 polySurface231
+    6400248: walls_and_floor_pdiShatterGroup1 polySurface232
+    6400250: walls_and_floor_pdiShatterGroup1 polySurface233
+    6400252: walls_and_floor_pdiShatterGroup1 polySurface234
+    6400254: walls_and_floor_pdiShatterGroup1 polySurface235
+    6400256: walls_and_floor_pdiShatterGroup1 polySurface236
+    6400258: walls_and_floor_pdiShatterGroup1 polySurface237
+    6400260: walls_and_floor_pdiShatterGroup1 polySurface238
+    6400262: walls_and_floor_pdiShatterGroup1 polySurface240
+    6400264: walls_and_floor_pdiShatterGroup1 polySurface241
+    6400266: walls_and_floor_pdiShatterGroup2 polySurface244
+    6400268: walls_and_floor_pdiShatterGroup2 polySurface245
+    6400270: walls_and_floor_pdiShatterGroup2 polySurface246
+    6400272: walls_and_floor_pdiShatterGroup2 polySurface247
+    6400274: walls_and_floor_pdiShatterGroup2 polySurface248
+    6400276: walls_and_floor_pdiShatterGroup2 polySurface249
+    6400278: walls_and_floor_pdiShatterGroup2 polySurface250
+    6400280: walls_and_floor_pdiShatterGroup2 polySurface251
+    6400282: walls_and_floor_pdiShatterGroup2 polySurface252
+    6400284: walls_and_floor_pdiShatterGroup2 polySurface253
+    6400286: walls_and_floor_pdiShatterGroup2 polySurface254
+    6400288: walls_and_floor_pdiShatterGroup2 polySurface255
+    6400290: walls_and_floor_pdiShatterGroup2 polySurface256
+    6400292: walls_and_floor_pdiShatterGroup2 polySurface257
+    6400294: walls_and_floor_pdiShatterGroup2 polySurface258
+    6400296: walls_and_floor_pdiShatterGroup2 polySurface259
+    6400298: walls_and_floor_pdiShatterGroup2 polySurface260
+    6400300: walls_and_floor_pdiShatterGroup2 polySurface261
+    6400302: walls_and_floor_pdiShatterGroup2 polySurface262
+    6400304: walls_and_floor_pdiShatterGroup2 polySurface263
+    6400306: walls_and_floor_pdiShatterGroup2 polySurface264
+    6400308: walls_and_floor_pdiShatterGroup2 polySurface265
+    6400310: walls_and_floor_pdiShatterGroup2 polySurface266
+    6400312: walls_and_floor_pdiShatterGroup2 polySurface267
+    6400314: walls_and_floor_pdiShatterGroup2 polySurface268
+    6400316: walls_and_floor_pdiShatterGroup2 polySurface269
+    6400318: walls_and_floor_pdiShatterGroup2 polySurface270
+    6400320: walls_and_floor_pdiShatterGroup2 polySurface271
+    6400322: walls_and_floor_pdiShatterGroup2 polySurface272
+    6400324: walls_and_floor_pdiShatterGroup2 polySurface273
+    6400326: walls_and_floor_pdiShatterGroup2 polySurface274
+    6400328: walls_and_floor_pdiShatterGroup2 polySurface275
+    6400330: walls_and_floor_pdiShatterGroup2 polySurface276
+    6400332: walls_and_floor_pdiShatterGroup2 polySurface277
+    6400334: walls_and_floor_pdiShatterGroup2 polySurface278
+    6400336: walls_and_floor_pdiShatterGroup2 polySurface279
+    6400338: walls_and_floor_pdiShatterGroup2 polySurface280
+    6400340: walls_and_floor_pdiShatterGroup2 polySurface281
+    6400342: walls_and_floor_pdiShatterGroup2 polySurface283
+    6400344: walls_and_floor_pdiShatterGroup2 polySurface285
+    6400346: walls_and_floor_pdiShatterGroup2 polySurface290
+    6400348: walls_and_floor_pdiShatterGroup2 polySurface293
+    6400350: walls_and_floor_pdiShatterGroup2 polySurface297
+    6400352: walls_and_floor_pdiShatterGroup2 polySurface298
+    6400354: walls_and_floor_pdiShatterGroup2 polySurface301
+    6400356: walls_and_floor_pdiShatterGroup2 polySurface302
+    6400358: walls_and_floor_pdiShatterGroup2 polySurface304
+    6400360: walls_and_floor_pdiShatterGroup2 polySurface317
+    6400362: walls_and_floor_pdiShatterGroup2 polySurface319
+    6400364: walls_and_floor_pdiShatterGroup2 polySurface320
+    6400366: walls_and_floor_pdiShatterGroup2 polySurface321
+    6400368: walls_and_floor_pdiShatterGroup2 polySurface322
+    6400370: walls_and_floor_pdiShatterGroup3 polySurface405
+    6400372: walls_and_floor_pdiShatterGroup3 polySurface406
+    6400374: walls_and_floor_pdiShatterGroup3 polySurface407
+    6400376: walls_and_floor_pdiShatterGroup3 polySurface408
+    6400378: walls_and_floor_pdiShatterGroup3 polySurface409
+    6400380: walls_and_floor_pdiShatterGroup3 polySurface410
+    6400382: walls_and_floor_pdiShatterGroup3 polySurface411
+    6400384: walls_and_floor_pdiShatterGroup3 polySurface412
+    6400386: walls_and_floor_pdiShatterGroup3 polySurface413
+    6400388: walls_and_floor_pdiShatterGroup3 polySurface414
+    6400390: walls_and_floor_pdiShatterGroup3 polySurface415
+    6400392: walls_and_floor_pdiShatterGroup3 polySurface416
+    6400394: walls_and_floor_pdiShatterGroup3 polySurface417
+    6400396: walls_and_floor_pdiShatterGroup3 polySurface418
+    6400398: walls_and_floor_pdiShatterGroup3 polySurface419
+    6400400: walls_and_floor_pdiShatterGroup3 polySurface420
+    6400402: walls_and_floor_pdiShatterGroup3 polySurface421
+    6400404: walls_and_floor_pdiShatterGroup3 polySurface422
+    6400406: walls_and_floor_pdiShatterGroup3 polySurface423
+    6400408: walls_and_floor_pdiShatterGroup3 polySurface425
+    6400410: walls_and_floor_pdiShatterGroup3 polySurface428
+    6400412: walls_and_floor_pdiShatterGroup3 polySurface430
+    6400414: walls_and_floor_pdiShatterGroup3 polySurface431
+    6400416: walls_and_floor_pdiShatterGroup3 polySurface436
+    6400418: walls_and_floor_pdiShatterGroup3 polySurface438
+    6400420: walls_and_floor_pdiShatterGroup3 polySurface439
+    6400422: walls_and_floor_pdiShatterGroup3 polySurface440
+    6400424: walls_and_floor_pdiShatterGroup3 polySurface443
+    6400426: walls_and_floor_pdiShatterGroup3 polySurface446
+    6400428: walls_and_floor_pdiShatterGroup3 polySurface447
+    6400430: walls_and_floor_pdiShatterGroup3 polySurface449
+    6400432: walls_and_floor_pdiShatterGroup3 polySurface450
+    6400434: walls_and_floor_pdiShatterGroup3 polySurface452
+    6400436: walls_and_floor_pdiShatterGroup3 polySurface453
+    6400438: walls_and_floor_pdiShatterGroup3 polySurface454
+    6400440: walls_and_floor_pdiShatterGroup3 polySurface456
+    6400442: walls_and_floor_pdiShatterGroup3 polySurface457
+    6400444: walls_and_floor_pdiShatterGroup3 polySurface460
+    6400446: walls_and_floor_pdiShatterGroup3 polySurface461
+    6400448: walls_and_floor_pdiShatterGroup3 polySurface462
+    6400450: walls_and_floor_pdiShatterGroup3 polySurface466
+    6400452: walls_and_floor_pdiShatterGroup3 polySurface468
+    6400454: walls_and_floor_pdiShatterGroup3 polySurface469
+    6400456: walls_and_floor_pdiShatterGroup3 polySurface470
+    6400458: walls_and_floor_pdiShatterGroup3 polySurface471
+    6400460: walls_and_floor_pdiShatterGroup3 polySurface472
+    6400462: walls_and_floor_pdiShatterGroup3 polySurface473
+    6400464: walls_and_floor_pdiShatterGroup3 polySurface475
+    6400466: walls_and_floor_pdiShatterGroup3 polySurface477
+    6400468: walls_and_floor_pdiShatterGroup3 polySurface480
+    6400470: walls_and_floor_pdiShatterGroup3 polySurface481
+    6400472: walls_and_floor_pdiShatterGroup3 polySurface482
+    6400474: walls_and_floor_pdiShatterGroup3 polySurface483
+    6400476: walls_and_floor_pdiShatterGroup3 polySurface484
+    6400478: walls_and_floor_pdiShatterGroup3 polySurface485
+    6400480: walls_and_floor_pdiShatterGroup3 polySurface486
+    6400482: walls_and_floor_pdiShatterGroup3 polySurface487
+    6400484: walls_and_floor_pdiShatterGroup3 polySurface488
+    6400486: walls_and_floor_pdiShatterGroup3 polySurface489
+    6400488: walls_and_floor_pdiShatterGroup3 polySurface491
+    6400490: walls_and_floor_pdiShatterGroup3 polySurface492
+    6400492: walls_and_floor_pdiShatterGroup3 polySurface495
+    6400494: walls_and_floor_pdiShatterGroup3 polySurface496
+    6400496: walls_and_floor_pdiShatterGroup3 polySurface498
+    6400498: walls_and_floor_pdiShatterGroup3 polySurface499
+    6400500: walls_and_floor_pdiShatterGroup3 polySurface501
+    6400502: walls_and_floor_pdiShatterGroup3 polySurface507
+    6400504: walls_and_floor_pdiShatterGroup3 polySurface508
+    6400506: walls_and_floor_pdiShatterGroup3 polySurface510
+    6400508: walls_and_floor_pdiShatterGroup3 polySurface511
+    6400510: walls_and_floor_pdiShatterGroup3 polySurface512
+    6400512: walls_and_floor_pdiShatterGroup3 polySurface513
+    6400514: walls_and_floor_pdiShatterGroup3 polySurface514
+    6400516: walls_and_floor_pdiShatterGroup3 polySurface515
+    6400518: walls_and_floor_pdiShatterGroup3 polySurface517
+    6400520: walls_and_floor_pdiShatterGroup3 polySurface518
+    6400522: walls_and_floor_pdiShatterGroup3 polySurface519
+    6400524: walls_and_floor_pdiShatterGroup3 polySurface520
+    6400526: walls_and_floor_pdiShatterGroup3 polySurface522
+    6400528: walls_and_floor_pdiShatterGroup3 polySurface523
+    6400530: walls_and_floor_pdiShatterGroup3 polySurface524
+    6400532: walls_and_floor_pdiShatterGroup3 polySurface526
+    6400534: walls_and_floor_pdiShatterGroup3 polySurface527
+    6400536: walls_and_floor_pdiShatterGroup3 polySurface528
+    6400538: walls_and_floor_pdiShatterGroup3 polySurface529
+    6400540: walls_and_floor_pdiShatterGroup3 polySurface530
+    6400542: walls_and_floor_pdiShatterGroup3 polySurface531
+    6400544: walls_and_floor_polySurface111
+    6400546: walls_and_floor_polySurface122 pdiShatterGroup1
+    6400548: walls_and_floor_polySurface242 pdiShatterGroup2
+    6400550: walls_and_floor_polySurface3
+    6400552: walls_and_floor_polySurface4 polySurface83
+    6400554: walls_and_floor_polySurface404 pdiShatterGroup3
+    6400556: walls_and_floor_polySurface82 polySurface4
+    6400558: walls_and_floor_pSphere1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

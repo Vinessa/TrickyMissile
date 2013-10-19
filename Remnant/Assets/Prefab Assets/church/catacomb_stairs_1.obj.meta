@@ -11,6 +11,9 @@ ModelImporter:
     100010: stair_hallway_1
     100012: stair_hallway_1_broken_roof_1
     100014: stair_hallway_1_stairs_1
+    100016: pCube1
+    100018: pPlane1
+    100020: pPlane2
     400000: catacomb_stair_1
     400002: catacomb_stair_1_stairs_1
     400004: catacomb_stair_1_wall_torch_1
@@ -19,6 +22,9 @@ ModelImporter:
     400010: stair_hallway_1
     400012: stair_hallway_1_broken_roof_1
     400014: stair_hallway_1_stairs_1
+    400016: pCube1
+    400018: pPlane1
+    400020: pPlane2
     2300000: catacomb_stair_1
     2300002: catacomb_stair_1_stairs_1
     2300004: catacomb_stair_1_wall_torch_1
@@ -26,6 +32,9 @@ ModelImporter:
     2300008: stair_hallway_1
     2300010: stair_hallway_1_broken_roof_1
     2300012: stair_hallway_1_stairs_1
+    2300014: pCube1
+    2300016: pPlane1
+    2300018: pPlane2
     3300000: catacomb_stair_1
     3300002: catacomb_stair_1_stairs_1
     3300004: catacomb_stair_1_wall_torch_1
@@ -33,6 +42,9 @@ ModelImporter:
     3300008: stair_hallway_1
     3300010: stair_hallway_1_broken_roof_1
     3300012: stair_hallway_1_stairs_1
+    3300014: pCube1
+    3300016: pPlane1
+    3300018: pPlane2
     4300000: catacomb_stair_1
     4300002: catacomb_stair_1_stairs_1
     4300004: catacomb_stair_1_wall_torch_1
@@ -40,9 +52,15 @@ ModelImporter:
     4300008: stair_hallway_1
     4300010: stair_hallway_1_broken_roof_1
     4300012: stair_hallway_1_stairs_1
+    4300014: pCube1
+    4300016: pPlane1
+    4300018: pPlane2
     6400000: stair_hallway_1
     6400002: stair_hallway_1_broken_roof_1
     6400004: stair_hallway_1_stairs_1
+    6400006: pCube1
+    6400008: pPlane1
+    6400010: pPlane2
     9500000: //RootNode
   materials:
     importMaterials: 1

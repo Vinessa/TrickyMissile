@@ -28,7 +28,7 @@ GameObject:
   - 23: {fileID: 2300000}
   - 64: {fileID: 6400000}
   m_Layer: 0
-  m_Name: stair_hallway_1
+  m_Name: pCube1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -46,7 +46,7 @@ GameObject:
   - 23: {fileID: 2300002}
   - 64: {fileID: 6400002}
   m_Layer: 0
-  m_Name: stair_hallway_1_broken_roof_1
+  m_Name: pPlane1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64,7 +64,7 @@ GameObject:
   - 23: {fileID: 2300004}
   - 64: {fileID: 6400004}
   m_Layer: 0
-  m_Name: stair_hallway_1_stairs_1
+  m_Name: pPlane2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -177,21 +177,21 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
-  m_Mesh: {fileID: 4300008, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
+  m_Mesh: {fileID: 4300014, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
 --- !u!33 &3300002
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100004}
-  m_Mesh: {fileID: 4300010, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
+  m_Mesh: {fileID: 4300016, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
 --- !u!33 &3300004
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100006}
-  m_Mesh: {fileID: 4300012, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
+  m_Mesh: {fileID: 4300018, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
 --- !u!64 &6400000
 MeshCollider:
   m_ObjectHideFlags: 1
@@ -204,7 +204,7 @@ MeshCollider:
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
   m_Convex: 0
-  m_Mesh: {fileID: 4300008, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
+  m_Mesh: {fileID: 4300014, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
 --- !u!64 &6400002
 MeshCollider:
   m_ObjectHideFlags: 1
@@ -217,7 +217,7 @@ MeshCollider:
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
   m_Convex: 0
-  m_Mesh: {fileID: 4300010, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
+  m_Mesh: {fileID: 4300016, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
 --- !u!64 &6400004
 MeshCollider:
   m_ObjectHideFlags: 1
@@ -230,7 +230,7 @@ MeshCollider:
   serializedVersion: 2
   m_SmoothSphereCollisions: 0
   m_Convex: 0
-  m_Mesh: {fileID: 4300012, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
+  m_Mesh: {fileID: 4300018, guid: 0a3e05331be6da041a38dfb0fe842c43, type: 3}
 --- !u!95 &9500000
 Animator:
   m_ObjectHideFlags: 1
