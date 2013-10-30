@@ -288,6 +288,37 @@ ModelImporter:
     100558: walls_and_floor_polySurface404 pdiShatterGroup3
     100560: walls_and_floor_polySurface82 polySurface4
     100562: walls_and_floor_pSphere1
+    100564: chair_pCube20 polySurface560
+    100566: chair_pCube22_s1 pCube22 polySurface535
+    100568: chair_pCube22_s1 pCube22 polySurface538
+    100570: chair_pCube22_s1 pCube22 polySurface540
+    100572: chair_pCube22_s1 pCube22 polySurface541
+    100574: chair_pCube23 polySurface552 pCube23_s1
+    100576: chair_pCube25 polySurface558
+    100578: chair_pCube26 polySurface533
+    100580: chair_pCube29 pCube29_s2 polySurface573
+    100582: chair_pCube29 pCube29_s2 polySurface574
+    100584: chair_pCube29 pCube29_s2 polySurface576
+    100586: chair_pCube29 pCube29_s2 polySurface577
+    100588: chair_pCube29 pCube29_s2 polySurface578
+    100590: chair_pCube29 polySurface571 pCube29_s2
+    100592: chair_pCube29_s1 pCube29 polySurface570
+    100594: chair_pCube30 pCube30_s1 polySurface587
+    100596: chair_pCube30 pCube30_s1 polySurface588
+    100598: chair_pCube30 pCube30_s1 polySurface589
+    100600: chair_pCube30 pCube30_s1 polySurface590
+    100602: chair_pCube30 polySurface584 pCube30_s1
+    100604: chair_pCube40 polySurface556
+    100606: chair_polySurface324 pCube21
+    100608: chair_polySurface532 pCube26
+    100610: chair_polySurface534 pCube22_s1 pCube22
+    100612: chair_polySurface553 pCube27
+    100614: chair_polySurface554 pCube28
+    100616: chair_polySurface555 pCube40
+    100618: chair_polySurface557 pCube25
+    100620: chair_polySurface559 pCube20
+    100622: chair_polySurface569 pCube29_s1 pCube29
+    100624: chair_polySurface580 pCube30
     400000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
       walls_and_floor
     400002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
@@ -573,6 +604,37 @@ ModelImporter:
     400558: walls_and_floor_polySurface404 pdiShatterGroup3
     400560: walls_and_floor_polySurface82 polySurface4
     400562: walls_and_floor_pSphere1
+    400564: chair_pCube20 polySurface560
+    400566: chair_pCube22_s1 pCube22 polySurface535
+    400568: chair_pCube22_s1 pCube22 polySurface538
+    400570: chair_pCube22_s1 pCube22 polySurface540
+    400572: chair_pCube22_s1 pCube22 polySurface541
+    400574: chair_pCube23 polySurface552 pCube23_s1
+    400576: chair_pCube25 polySurface558
+    400578: chair_pCube26 polySurface533
+    400580: chair_pCube29 pCube29_s2 polySurface573
+    400582: chair_pCube29 pCube29_s2 polySurface574
+    400584: chair_pCube29 pCube29_s2 polySurface576
+    400586: chair_pCube29 pCube29_s2 polySurface577
+    400588: chair_pCube29 pCube29_s2 polySurface578
+    400590: chair_pCube29 polySurface571 pCube29_s2
+    400592: chair_pCube29_s1 pCube29 polySurface570
+    400594: chair_pCube30 pCube30_s1 polySurface587
+    400596: chair_pCube30 pCube30_s1 polySurface588
+    400598: chair_pCube30 pCube30_s1 polySurface589
+    400600: chair_pCube30 pCube30_s1 polySurface590
+    400602: chair_pCube30 polySurface584 pCube30_s1
+    400604: chair_pCube40 polySurface556
+    400606: chair_polySurface324 pCube21
+    400608: chair_polySurface532 pCube26
+    400610: chair_polySurface534 pCube22_s1 pCube22
+    400612: chair_polySurface553 pCube27
+    400614: chair_polySurface554 pCube28
+    400616: chair_polySurface555 pCube40
+    400618: chair_polySurface557 pCube25
+    400620: chair_polySurface559 pCube20
+    400622: chair_polySurface569 pCube29_s1 pCube29
+    400624: chair_polySurface580 pCube30
     2300000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
       walls_and_floor
     2300002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
@@ -857,6 +919,37 @@ ModelImporter:
     2300556: walls_and_floor_polySurface404 pdiShatterGroup3
     2300558: walls_and_floor_polySurface82 polySurface4
     2300560: walls_and_floor_pSphere1
+    2300562: chair_pCube20 polySurface560
+    2300564: chair_pCube22_s1 pCube22 polySurface535
+    2300566: chair_pCube22_s1 pCube22 polySurface538
+    2300568: chair_pCube22_s1 pCube22 polySurface540
+    2300570: chair_pCube22_s1 pCube22 polySurface541
+    2300572: chair_pCube23 polySurface552 pCube23_s1
+    2300574: chair_pCube25 polySurface558
+    2300576: chair_pCube26 polySurface533
+    2300578: chair_pCube29 pCube29_s2 polySurface573
+    2300580: chair_pCube29 pCube29_s2 polySurface574
+    2300582: chair_pCube29 pCube29_s2 polySurface576
+    2300584: chair_pCube29 pCube29_s2 polySurface577
+    2300586: chair_pCube29 pCube29_s2 polySurface578
+    2300588: chair_pCube29 polySurface571 pCube29_s2
+    2300590: chair_pCube29_s1 pCube29 polySurface570
+    2300592: chair_pCube30 pCube30_s1 polySurface587
+    2300594: chair_pCube30 pCube30_s1 polySurface588
+    2300596: chair_pCube30 pCube30_s1 polySurface589
+    2300598: chair_pCube30 pCube30_s1 polySurface590
+    2300600: chair_pCube30 polySurface584 pCube30_s1
+    2300602: chair_pCube40 polySurface556
+    2300604: chair_polySurface324 pCube21
+    2300606: chair_polySurface532 pCube26
+    2300608: chair_polySurface534 pCube22_s1 pCube22
+    2300610: chair_polySurface553 pCube27
+    2300612: chair_polySurface554 pCube28
+    2300614: chair_polySurface555 pCube40
+    2300616: chair_polySurface557 pCube25
+    2300618: chair_polySurface559 pCube20
+    2300620: chair_polySurface569 pCube29_s1 pCube29
+    2300622: chair_polySurface580 pCube30
     3300000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
       walls_and_floor
     3300002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
@@ -1141,6 +1234,37 @@ ModelImporter:
     3300556: walls_and_floor_polySurface404 pdiShatterGroup3
     3300558: walls_and_floor_polySurface82 polySurface4
     3300560: walls_and_floor_pSphere1
+    3300562: chair_pCube20 polySurface560
+    3300564: chair_pCube22_s1 pCube22 polySurface535
+    3300566: chair_pCube22_s1 pCube22 polySurface538
+    3300568: chair_pCube22_s1 pCube22 polySurface540
+    3300570: chair_pCube22_s1 pCube22 polySurface541
+    3300572: chair_pCube23 polySurface552 pCube23_s1
+    3300574: chair_pCube25 polySurface558
+    3300576: chair_pCube26 polySurface533
+    3300578: chair_pCube29 pCube29_s2 polySurface573
+    3300580: chair_pCube29 pCube29_s2 polySurface574
+    3300582: chair_pCube29 pCube29_s2 polySurface576
+    3300584: chair_pCube29 pCube29_s2 polySurface577
+    3300586: chair_pCube29 pCube29_s2 polySurface578
+    3300588: chair_pCube29 polySurface571 pCube29_s2
+    3300590: chair_pCube29_s1 pCube29 polySurface570
+    3300592: chair_pCube30 pCube30_s1 polySurface587
+    3300594: chair_pCube30 pCube30_s1 polySurface588
+    3300596: chair_pCube30 pCube30_s1 polySurface589
+    3300598: chair_pCube30 pCube30_s1 polySurface590
+    3300600: chair_pCube30 polySurface584 pCube30_s1
+    3300602: chair_pCube40 polySurface556
+    3300604: chair_polySurface324 pCube21
+    3300606: chair_polySurface532 pCube26
+    3300608: chair_polySurface534 pCube22_s1 pCube22
+    3300610: chair_polySurface553 pCube27
+    3300612: chair_polySurface554 pCube28
+    3300614: chair_polySurface555 pCube40
+    3300616: chair_polySurface557 pCube25
+    3300618: chair_polySurface559 pCube20
+    3300620: chair_polySurface569 pCube29_s1 pCube29
+    3300622: chair_polySurface580 pCube30
     4300000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
       walls_and_floor
     4300002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
@@ -1425,6 +1549,37 @@ ModelImporter:
     4300556: walls_and_floor_polySurface404 pdiShatterGroup3
     4300558: walls_and_floor_polySurface82 polySurface4
     4300560: walls_and_floor_pSphere1
+    4300562: chair_pCube20 polySurface560
+    4300564: chair_pCube22_s1 pCube22 polySurface535
+    4300566: chair_pCube22_s1 pCube22 polySurface538
+    4300568: chair_pCube22_s1 pCube22 polySurface540
+    4300570: chair_pCube22_s1 pCube22 polySurface541
+    4300572: chair_pCube23 polySurface552 pCube23_s1
+    4300574: chair_pCube25 polySurface558
+    4300576: chair_pCube26 polySurface533
+    4300578: chair_pCube29 pCube29_s2 polySurface573
+    4300580: chair_pCube29 pCube29_s2 polySurface574
+    4300582: chair_pCube29 pCube29_s2 polySurface576
+    4300584: chair_pCube29 pCube29_s2 polySurface577
+    4300586: chair_pCube29 pCube29_s2 polySurface578
+    4300588: chair_pCube29 polySurface571 pCube29_s2
+    4300590: chair_pCube29_s1 pCube29 polySurface570
+    4300592: chair_pCube30 pCube30_s1 polySurface587
+    4300594: chair_pCube30 pCube30_s1 polySurface588
+    4300596: chair_pCube30 pCube30_s1 polySurface589
+    4300598: chair_pCube30 pCube30_s1 polySurface590
+    4300600: chair_pCube30 polySurface584 pCube30_s1
+    4300602: chair_pCube40 polySurface556
+    4300604: chair_polySurface324 pCube21
+    4300606: chair_polySurface532 pCube26
+    4300608: chair_polySurface534 pCube22_s1 pCube22
+    4300610: chair_polySurface553 pCube27
+    4300612: chair_polySurface554 pCube28
+    4300614: chair_polySurface555 pCube40
+    4300616: chair_polySurface557 pCube25
+    4300618: chair_polySurface559 pCube20
+    4300620: chair_polySurface569 pCube29_s1 pCube29
+    4300622: chair_polySurface580 pCube30
     6400000: bell_tower:Bell_Tower_bell_tower:pCube2 polySurface112 bell_tower:polySurface1
       walls_and_floor
     6400002: bell_tower:Bell_Tower_bell_tower:pPyramid1 bell_tower:polySurface1 walls_and_floor
@@ -1709,6 +1864,37 @@ ModelImporter:
     6400556: walls_and_floor_polySurface404 pdiShatterGroup3
     6400558: walls_and_floor_polySurface82 polySurface4
     6400560: walls_and_floor_pSphere1
+    6400562: chair_pCube20 polySurface560
+    6400564: chair_pCube22_s1 pCube22 polySurface535
+    6400566: chair_pCube22_s1 pCube22 polySurface538
+    6400568: chair_pCube22_s1 pCube22 polySurface540
+    6400570: chair_pCube22_s1 pCube22 polySurface541
+    6400572: chair_pCube23 polySurface552 pCube23_s1
+    6400574: chair_pCube25 polySurface558
+    6400576: chair_pCube26 polySurface533
+    6400578: chair_pCube29 pCube29_s2 polySurface573
+    6400580: chair_pCube29 pCube29_s2 polySurface574
+    6400582: chair_pCube29 pCube29_s2 polySurface576
+    6400584: chair_pCube29 pCube29_s2 polySurface577
+    6400586: chair_pCube29 pCube29_s2 polySurface578
+    6400588: chair_pCube29 polySurface571 pCube29_s2
+    6400590: chair_pCube29_s1 pCube29 polySurface570
+    6400592: chair_pCube30 pCube30_s1 polySurface587
+    6400594: chair_pCube30 pCube30_s1 polySurface588
+    6400596: chair_pCube30 pCube30_s1 polySurface589
+    6400598: chair_pCube30 pCube30_s1 polySurface590
+    6400600: chair_pCube30 polySurface584 pCube30_s1
+    6400602: chair_pCube40 polySurface556
+    6400604: chair_polySurface324 pCube21
+    6400606: chair_polySurface532 pCube26
+    6400608: chair_polySurface534 pCube22_s1 pCube22
+    6400610: chair_polySurface553 pCube27
+    6400612: chair_polySurface554 pCube28
+    6400614: chair_polySurface555 pCube40
+    6400616: chair_polySurface557 pCube25
+    6400618: chair_polySurface559 pCube20
+    6400620: chair_polySurface569 pCube29_s1 pCube29
+    6400622: chair_polySurface580 pCube30
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -1731,7 +1917,7 @@ ModelImporter:
     addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
