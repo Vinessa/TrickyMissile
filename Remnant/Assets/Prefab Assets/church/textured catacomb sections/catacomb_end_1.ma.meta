@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 66651c800e6924943a70d052fe1ec435
+=======
+guid: b544d9645ac305740855280981a7b07e
+>>>>>>> shaq rocks and updates to catacombs
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
@@ -25,8 +29,13 @@ ModelImporter:
     100038: transform5
     100040: wall_to_UV:polySurface8_polySurface5_polySurface3_polySurface1_catacomb_end_1
     400000: back
+<<<<<<< HEAD
     400002: catacomb_end_1
     400004: //RootNode
+=======
+    400002: //RootNode
+    400004: catacomb_end_1
+>>>>>>> shaq rocks and updates to catacombs
     400006: ceiling:polySurface7_polySurface5_polySurface3_polySurface1_catacomb_end_1
     400008: floor_to_UV:polySurface2_catacomb_end_1
     400010: human_reference
