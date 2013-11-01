@@ -120,6 +120,27 @@ ModelImporter:
     4300036: brokenCeiling:brokenCeiling
     4300038: brokenFloor:brokenFloor
     4300040: floorhole:brokenFloor
+    6400000: brokenCeiling:brokenCeiling
+    6400002: brokenFloor:brokenFloor
+    6400004: catacomb_baseboard
+    6400006: catacomb_baseboard 1
+    6400008: catacomb_ceiling
+    6400010: catacomb_floor
+    6400012: catacomb_sidefloor
+    6400014: catacomb_sidefloor 1
+    6400016: catacomb_str_UV_1:pillar_arch_3
+    6400018: catacomb_wall1
+    6400020: catacomb_wall1 1
+    6400022: catacomb_wall2
+    6400024: catacomb_wall2 1
+    6400026: floorhole:brokenFloor
+    6400028: main_pillar_3
+    6400030: main_pillar_3 1
+    6400032: main_pillar_4
+    6400034: main_pillar_4 1
+    6400036: pillar_arch_3
+    6400038: pillar_arch_3 1
+    6400040: pillar_arch_4
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -139,10 +160,10 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
