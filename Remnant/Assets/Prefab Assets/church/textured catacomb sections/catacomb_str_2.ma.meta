@@ -89,6 +89,18 @@ ModelImporter:
     4300018: pillar_arch_2_catacomb_str_1
     4300020: catacomb_sidefloor
     4300022: catacomb_baseboard1
+    6400000: catacomb_baseboard1
+    6400002: catacomb_sidefloor
+    6400004: human_reference
+    6400006: incline_column_arch_UVs:pillar_arch_2_catacomb_str_1
+    6400008: main_pillar_3
+    6400010: main_pillar_4
+    6400012: pillar_arch_2_catacomb_str_1
+    6400014: polySurface10
+    6400016: polySurface2
+    6400018: polySurface8
+    6400020: polySurface9
+    6400022: wall_torch_1
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -108,10 +120,10 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
