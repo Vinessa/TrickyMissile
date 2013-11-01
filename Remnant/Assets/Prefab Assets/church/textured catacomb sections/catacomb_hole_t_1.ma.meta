@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 4f2977a6fd38f4d59a7ed52ce349b888
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: brokenCeiling:brokenCeiling
+    100002: brokenFloor:brokenFloor
+    100004: catacomb_baseboard
+    100006: catacomb_baseboard 1
+    100008: catacomb_ceiling
+    100010: catacomb_floor
+    100012: catacomb_hole_intersection_1_prefab:back
+    100014: catacomb_hole_intersection_1_prefab:left
+    100016: //RootNode
+    100018: catacomb_lower
+    100020: catacomb_sidefloor
+    100022: catacomb_sidefloor 1
+    100024: catacomb_str_UV_1:pillar_arch_3
+    100026: catacomb_upper
+    100028: catacomb_wall1
+    100030: catacomb_wall1 1
+    100032: catacomb_wall2
+    100034: catacomb_wall2 1
+    100036: floorhole:brokenFloor
+    100038: left
+    100040: main_pillar_3
+    100042: main_pillar_3 1
+    100044: main_pillar_4
+    100046: main_pillar_4 1
+    100048: pillar_arch_3
+    100050: pillar_arch_3 1
+    100052: pillar_arch_4
+    400000: brokenCeiling:brokenCeiling
+    400002: brokenFloor:brokenFloor
+    400004: catacomb_baseboard
+    400006: catacomb_baseboard 1
+    400008: catacomb_ceiling
+    400010: catacomb_floor
+    400012: catacomb_hole_intersection_1_prefab:back
+    400014: catacomb_hole_intersection_1_prefab:left
+    400016: //RootNode
+    400018: catacomb_lower
+    400020: catacomb_sidefloor
+    400022: catacomb_sidefloor 1
+    400024: catacomb_str_UV_1:pillar_arch_3
+    400026: catacomb_upper
+    400028: catacomb_wall1
+    400030: catacomb_wall1 1
+    400032: catacomb_wall2
+    400034: catacomb_wall2 1
+    400036: floorhole:brokenFloor
+    400038: left
+    400040: main_pillar_3
+    400042: main_pillar_3 1
+    400044: main_pillar_4
+    400046: main_pillar_4 1
+    400048: pillar_arch_3
+    400050: pillar_arch_3 1
+    400052: pillar_arch_4
+    2300000: brokenCeiling:brokenCeiling
+    2300002: brokenFloor:brokenFloor
+    2300004: catacomb_baseboard
+    2300006: catacomb_baseboard 1
+    2300008: catacomb_ceiling
+    2300010: catacomb_floor
+    2300012: catacomb_sidefloor
+    2300014: catacomb_sidefloor 1
+    2300016: catacomb_str_UV_1:pillar_arch_3
+    2300018: catacomb_wall1
+    2300020: catacomb_wall1 1
+    2300022: catacomb_wall2
+    2300024: catacomb_wall2 1
+    2300026: floorhole:brokenFloor
+    2300028: main_pillar_3
+    2300030: main_pillar_3 1
+    2300032: main_pillar_4
+    2300034: main_pillar_4 1
+    2300036: pillar_arch_3
+    2300038: pillar_arch_3 1
+    2300040: pillar_arch_4
+    3300000: brokenCeiling:brokenCeiling
+    3300002: brokenFloor:brokenFloor
+    3300004: catacomb_baseboard
+    3300006: catacomb_baseboard 1
+    3300008: catacomb_ceiling
+    3300010: catacomb_floor
+    3300012: catacomb_sidefloor
+    3300014: catacomb_sidefloor 1
+    3300016: catacomb_str_UV_1:pillar_arch_3
+    3300018: catacomb_wall1
+    3300020: catacomb_wall1 1
+    3300022: catacomb_wall2
+    3300024: catacomb_wall2 1
+    3300026: floorhole:brokenFloor
+    3300028: main_pillar_3
+    3300030: main_pillar_3 1
+    3300032: main_pillar_4
+    3300034: main_pillar_4 1
+    3300036: pillar_arch_3
+    3300038: pillar_arch_3 1
+    3300040: pillar_arch_4
+    4300000: main_pillar_4
+    4300002: main_pillar_3
+    4300004: pillar_arch_3
+    4300006: catacomb_wall2
+    4300008: catacomb_wall1
+    4300010: catacomb_baseboard
+    4300012: catacomb_ceiling
+    4300014: catacomb_sidefloor
+    4300016: catacomb_str_UV_1:pillar_arch_3
+    4300018: main_pillar_4
+    4300020: main_pillar_3
+    4300022: pillar_arch_3
+    4300024: catacomb_floor
+    4300026: catacomb_wall2
+    4300028: catacomb_wall1
+    4300030: catacomb_baseboard
+    4300032: catacomb_sidefloor
+    4300034: pillar_arch_4
+    4300036: brokenCeiling:brokenCeiling
+    4300038: brokenFloor:brokenFloor
+    4300040: floorhole:brokenFloor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
