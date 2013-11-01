@@ -16,7 +16,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!1 &100002
 GameObject:
@@ -126,7 +126,7 @@ Animation:
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
   serializedVersion: 3
-  m_Animation: {fileID: 0}
+  m_Animation: {fileID: 7400000, guid: fb72aeb4461ca4f0aa2eaa334351fcfd, type: 2}
   m_Animations:
   - {fileID: 7400000, guid: fb72aeb4461ca4f0aa2eaa334351fcfd, type: 2}
   m_WrapMode: 0

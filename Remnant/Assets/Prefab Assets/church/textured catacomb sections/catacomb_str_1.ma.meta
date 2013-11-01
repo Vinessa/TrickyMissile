@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: c2172aae3b0c248c8800006578579108
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: catacomb_baseboard
+    100002: catacomb_ceiling
+    100004: catacomb_floor
+    100006: catacomb_sidefloor
+    100008: //RootNode
+    100010: catacomb_str_UV_1:catacomb_str_1
+    100012: catacomb_str_UV_1:pillar_arch_3
+    100014: catacomb_wall1
+    100016: catacomb_wall2
+    100018: left
+    100020: main_pillar_3
+    100022: main_pillar_4
+    100024: pillar_arch_3
+    400000: catacomb_baseboard
+    400002: catacomb_ceiling
+    400004: catacomb_floor
+    400006: catacomb_sidefloor
+    400008: //RootNode
+    400010: catacomb_str_UV_1:catacomb_str_1
+    400012: catacomb_str_UV_1:pillar_arch_3
+    400014: catacomb_wall1
+    400016: catacomb_wall2
+    400018: left
+    400020: main_pillar_3
+    400022: main_pillar_4
+    400024: pillar_arch_3
+    2300000: catacomb_baseboard
+    2300002: catacomb_ceiling
+    2300004: catacomb_floor
+    2300006: catacomb_sidefloor
+    2300008: catacomb_str_UV_1:pillar_arch_3
+    2300010: catacomb_wall1
+    2300012: catacomb_wall2
+    2300014: main_pillar_3
+    2300016: main_pillar_4
+    2300018: pillar_arch_3
+    3300000: catacomb_baseboard
+    3300002: catacomb_ceiling
+    3300004: catacomb_floor
+    3300006: catacomb_sidefloor
+    3300008: catacomb_str_UV_1:pillar_arch_3
+    3300010: catacomb_wall1
+    3300012: catacomb_wall2
+    3300014: main_pillar_3
+    3300016: main_pillar_4
+    3300018: pillar_arch_3
+    4300000: catacomb_str_UV_1:pillar_arch_3
+    4300002: catacomb_sidefloor
+    4300004: catacomb_ceiling
+    4300006: catacomb_baseboard
+    4300008: catacomb_wall1
+    4300010: catacomb_wall2
+    4300012: catacomb_floor
+    4300014: pillar_arch_3
+    4300016: main_pillar_3
+    4300018: main_pillar_4
+    6400000: catacomb_baseboard
+    6400002: catacomb_ceiling
+    6400004: catacomb_floor
+    6400006: catacomb_sidefloor
+    6400008: catacomb_str_UV_1:pillar_arch_3
+    6400010: catacomb_wall1
+    6400012: catacomb_wall2
+    6400014: main_pillar_3
+    6400016: main_pillar_4
+    6400018: pillar_arch_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
