@@ -17,7 +17,7 @@
     <bias>0.005</bias>
     <giTransparencyDepth>2</giTransparencyDepth>
     <ignoreLightLinks>false</ignoreLightLinks>
-    <maxRayDepth>6</maxRayDepth>
+    <maxRayDepth>3</maxRayDepth>
     <maxShadowRays>10000</maxShadowRays>
     <minShadowRays>0</minShadowRays>
     <reflectionDepth>2</reflectionDepth>
@@ -116,7 +116,7 @@
     <fgMaxRayLength>0</fgMaxRayLength>
     <fgNormalThreshold>0.2</fgNormalThreshold>
     <fgPreview>false</fgPreview>
-    <fgRays>1000</fgRays>
+    <fgRays>500</fgRays>
     <fgUseCache>Irradiance</fgUseCache>
     <ptAccuracy>1</ptAccuracy>
     <ptCacheDirectLight>false</ptCacheDirectLight>
