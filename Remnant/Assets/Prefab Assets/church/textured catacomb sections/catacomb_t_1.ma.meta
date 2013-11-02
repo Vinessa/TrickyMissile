@@ -154,6 +154,26 @@ ModelImporter:
     4300036: baseboard_2
     4300038: t_baseboard_wide_UVs:polySurface19_polySurface17_polySurface15_polySurface13_polySurface11_polySurface9_polySurface6_polySurface3_polySurface1_catacomb_t_1
     4300040: t_ceiling_uv:polySurface18_polySurface17_polySurface15_polySurface13_polySurface11_polySurface9_polySurface6_polySurface3_polySurface1_catacomb_t_1
+    6400000: baseboard_2
+    6400002: main_pillar_3
+    6400004: main_pillar_4
+    6400006: main_pillar_6
+    6400008: main_pillar_7
+    6400010: main_pillar_8
+    6400012: pillar_arch_3
+    6400014: pillar_arch_4
+    6400016: pillar_arch_5
+    6400018: pillar_arch_6
+    6400020: polySurface10
+    6400022: polySurface12
+    6400024: polySurface14
+    6400026: polySurface5
+    6400028: polySurface7
+    6400030: polySurface8
+    6400032: t_baseboard_wide_UVs:polySurface19_polySurface17_polySurface15_polySurface13_polySurface11_polySurface9_polySurface6_polySurface3_polySurface1_catacomb_t_1
+    6400034: t_ceiling_uv:polySurface18_polySurface17_polySurface15_polySurface13_polySurface11_polySurface9_polySurface6_polySurface3_polySurface1_catacomb_t_1
+    6400036: wall_torch_1
+    6400038: wall_torch_2
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -173,10 +193,10 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
