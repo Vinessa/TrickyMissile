@@ -25,6 +25,10 @@ ModelImporter:
     4300002: group3_Angel_10_30_2014:Group1
     4300004: group3_InnerHoodMesh:Group1
     4300006: group3_OuterHoodMeshSmoothed:Group1
+    6400000: fountianmesh:ZBrush_defualt_group_group3
+    6400002: group3_Angel_10_30_2014:Group1
+    6400004: group3_InnerHoodMesh:Group1
+    6400006: group3_OuterHoodMeshSmoothed:Group1
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -44,10 +48,10 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
