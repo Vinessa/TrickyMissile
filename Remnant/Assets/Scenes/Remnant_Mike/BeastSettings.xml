@@ -116,7 +116,7 @@
     <fgMaxRayLength>0</fgMaxRayLength>
     <fgNormalThreshold>0.2</fgNormalThreshold>
     <fgPreview>false</fgPreview>
-    <fgRays>500</fgRays>
+    <fgRays>250</fgRays>
     <fgUseCache>Irradiance</fgUseCache>
     <ptAccuracy>1</ptAccuracy>
     <ptCacheDirectLight>false</ptCacheDirectLight>
