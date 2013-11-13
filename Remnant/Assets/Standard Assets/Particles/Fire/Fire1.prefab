@@ -88,7 +88,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -.519390106, y: -2.85301971, z: 48.9869461}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 400006}
@@ -119,7 +119,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100004}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.9354887, z: 0}
+  m_LocalPosition: {x: 0, y: .735691071, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 400000}
@@ -248,12 +248,12 @@ EllipsoidParticleEmitter:
   serializedVersion: 2
   m_Enabled: 1
   m_Emit: 1
-  minSize: 1
-  maxSize: 1.5
-  minEnergy: 4
-  maxEnergy: 4.5
-  minEmission: 30
-  maxEmission: 30
+  minSize: .5
+  maxSize: 1
+  minEnergy: 2
+  maxEnergy: 3
+  minEmission: 9
+  maxEmission: 12
   worldVelocity: {x: 0, y: 0, z: 0}
   localVelocity: {x: 0, y: 0, z: 0}
   rndVelocity: {x: 0, y: 0, z: 0}
@@ -264,7 +264,7 @@ EllipsoidParticleEmitter:
   rndRotation: 1
   Simulate in Worldspace?: 1
   m_OneShot: 0
-  m_Ellipsoid: {x: 1.5, y: 0, z: 1.5}
+  m_Ellipsoid: {x: .25, y: 0, z: .25}
   m_MinEmitterRange: 0
 --- !u!1002 &1500001
 EditorExtensionImpl:
@@ -278,12 +278,12 @@ EllipsoidParticleEmitter:
   serializedVersion: 2
   m_Enabled: 1
   m_Emit: 1
-  minSize: 1
-  maxSize: 2
-  minEnergy: 7
-  maxEnergy: 7
-  minEmission: 40
-  maxEmission: 40
+  minSize: .25
+  maxSize: 1
+  minEnergy: 1
+  maxEnergy: 4
+  minEmission: 2
+  maxEmission: 4
   worldVelocity: {x: 0, y: 0, z: 0}
   localVelocity: {x: 0, y: 0, z: 0}
   rndVelocity: {x: 0, y: 0, z: 0}
@@ -294,7 +294,7 @@ EllipsoidParticleEmitter:
   rndRotation: 1
   Simulate in Worldspace?: 1
   m_OneShot: 0
-  m_Ellipsoid: {x: 2, y: 0, z: 2}
+  m_Ellipsoid: {x: .25, y: 0, z: .25}
   m_MinEmitterRange: 0
 --- !u!1002 &1500003
 EditorExtensionImpl:
@@ -308,12 +308,12 @@ EllipsoidParticleEmitter:
   serializedVersion: 2
   m_Enabled: 1
   m_Emit: 1
-  minSize: 1
+  minSize: .5
   maxSize: 1
-  minEnergy: 3
+  minEnergy: 1
   maxEnergy: 3
-  minEmission: 40
-  maxEmission: 40
+  minEmission: 10
+  maxEmission: 15
   worldVelocity: {x: 0, y: 0, z: 0}
   localVelocity: {x: 0, y: 0, z: 0}
   rndVelocity: {x: 0, y: 0, z: 0}
@@ -324,7 +324,7 @@ EllipsoidParticleEmitter:
   rndRotation: 1
   Simulate in Worldspace?: 1
   m_OneShot: 0
-  m_Ellipsoid: {x: 1.79999995, y: 0, z: 1.79999995}
+  m_Ellipsoid: {x: .300000012, y: 0, z: .300000012}
   m_MinEmitterRange: 0
 --- !u!1002 &1500005
 EditorExtensionImpl:
